@@ -1,0 +1,84 @@
+Abbreviation:	Book:
+Old Testament:
+Amos	Amos
+1 Chr	1 Chronicles
+2 Chr	2 Chronicles
+Dan	Daniel
+Deut	Deuteronomy
+Ecc	Ecclesiastes
+Est	Esther
+Exo	Exodus
+Ezek	Ezekiel
+Ezr	Ezra
+Gen	Genesis
+Hab	Habakkuk
+Hag	Haggai
+Hos	Hosea
+Isa	Isaiah
+Jer	Jeremiah
+Job	Job
+Joel	Joel
+Jon	Jonah
+Josh	Joshua
+Judg	Judges
+1 Kgs	1 Kings
+2 Kgs	2 Kings
+Lam	Lamentations
+Lev	Leviticus
+Mal	Malachi
+Mic	Micah
+Nah	Nahum
+Neh	Nehemiah
+Num	Numbers
+Obad	Obadiah
+Prov	Proverbs
+Psa	Psalms
+Ruth	Ruth
+1 Sam	1 Samuel
+2 Sam	2 Samuel
+Song	Song of Solomon
+Zec	Zechariah
+Zep	Zephaniah
+
+The New Testament: 
+Acts	Acts of the Apostles
+Col	Colossians
+1 Cor	1 Corinthians
+2 Cor	2 Corinthians
+Eph	Ephesians
+Gal	Galatians
+Heb	Hebrews
+James	James
+John	John (Gospel)
+1 John	1 John (Epistle)
+2 John	2 John (Epistle)
+3 John	3 John (Epistle)
+Jude 	Jude
+Luke	Luke
+Mark	Mark
+Matt	Matthew
+1 Pet 	1 Peter
+2 Pet	2 Peter
+Phlm	Philemon
+Phil	Philippians
+Rev	Revelation (=Apocalypse)
+Rom	Romans
+1 Thes	1 Thessalonians
+2 Thes	2 Thessalonians
+1 Tim 	1 Timothy
+2 Tim	2 Timothy
+Titus	Titus
+
+Apocrypha:
+Bar 	Baruch
+Ecclus	Ecclesiasticus (=Sirach)
+1 Esd 	1 Esdras
+2 Esd	2 Esdras
+Jth	Judith
+1 Macc 	1 Maccabees
+2 Macc	2 Maccabees
+Pr of Man	Prayer of Manasses (=Manasseh)
+Sir	Sirach (=Ecclesiasticus)
+Sus   	Susanna
+Tob  	Tobit
+Ws 	Wisdom (=Wisdom of Solomon)
