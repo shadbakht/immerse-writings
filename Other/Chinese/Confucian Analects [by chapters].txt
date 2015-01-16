@@ -1,4 +1,4 @@
-﻿/*title*/CONFUCIAN ANALECTS
+﻿/*title*/Confucian Analects
 Confucius 500 BC
 
 translated by James Legge [1893]
