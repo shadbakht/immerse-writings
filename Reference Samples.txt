@@ -5,6 +5,10 @@
 
 (‘Abdu’l-Bahá, Will and Testament of ‘Abdu’l-Bahá, Part One, par 4)
 
+(‘Abdu’l-Bahá, Memorials of the Faithful, 69 - Táhirih)
+
+(‘Abdu’l-Bahá, Tablets of 'Abdu'l-Baha Abbas, Volume II, 4:“O thou honorable lady!…”)
+
 (Bahá’u’lláh, Epistle to the Son of the Wolf, par 76)
 
 (Bahá’u’lláh, Gems of Divine Mysteries, par 44)
@@ -28,9 +32,9 @@
 
 (Bahá’í Prayers, Mankind, “My God, Whom I worship and adore! I bear...”)
 
-(Nabíl-i-‘Azam, The Dawn-Breakers, Introduction, par 34)
-(Nabíl-i-‘Azam, The Dawn-Breakers, Persia's State of Decadence in the Middle of the Nineteenth Century, A. The Qájár sovereings, par 12)
-(Nabíl-i-‘Azam, The Dawn-Breakers, Part Two: The Revelation of The Báb, Chapter III: The Declaration of the Báb's Mission, The arriveal of Mullá Husayn in Karbilá, par 3)
+(Nabíl-i-Zarandí, The Dawn-Breakers, Introduction, par 34)
+(Nabíl-i-Zarandí, The Dawn-Breakers, Persia's State of Decadence in the Middle of the Nineteenth Century, A. The Qájár sovereings, par 12)
+(Nabíl-i-Zarandí, The Dawn-Breakers, Part Two: The Revelation of The Báb, Chapter III: The Declaration of the Báb's Mission, The arriveal of Mullá Husayn in Karbilá, par 3)
 
 (Shoghi Effendi, The Advent of Divine Justice, Call for the Fulfillment of the Material Aspect of America’s Task, upon Which Depends Futures Successes, The Challenge of the Temple, Winning Foreign Goals, Administrative Preparation for Teaching)
 
@@ -60,6 +64,7 @@
 
 (The Universal House of Justice, The Promise of World Peace, II, par 2)
 
+(The Universal House of Justice, 2002 April 1, par 24)
 
 
 Buddhist: [Dhammapada and Lotus Sutra are the odd ones out, that have /*chapter*/s]
