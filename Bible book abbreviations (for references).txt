@@ -69,16 +69,11 @@ Rom	Romans
 2 Tim	2 Timothy
 Titus	Titus
 
-Apocrypha:
+Dewy Rheims:
 Bar 	Baruch
-Ecclus	Ecclesiasticus (=Sirach)
-1 Esd 	1 Esdras
-2 Esd	2 Esdras
-Jth	Judith
-1 Macc 	1 Maccabees
-2 Macc	2 Maccabees
-Pr of Man	Prayer of Manasses (=Manasseh)
-Sir	Sirach (=Ecclesiasticus)
-Sus   	Susanna
-Tob  	Tobit
-Ws 	Wisdom (=Wisdom of Solomon)
+Jdt	Judith
+1 Mac 	1 Maccabees
+2 Mac	2 Maccabees
+Sir	Sirach
+Tob  	Tobias
+Wis 	Wisdom
