@@ -2,23 +2,7 @@
 The Most Holy Book
 Bahá’u’lláh
 
-•    •    •
-Table of Contents
-Preface
-Introduction
-A Description of the Kitáb-i-Aqdas by Shoghi Effendi
-The Kitáb-i-Aqdas
-Some Supplementary Texts
-Questions and Answers
-A Synopsis and Codification of the Laws and Ordinances of the Kitáb-i-Aqdas
-Notes
-Key to Passages from the Aqdas translated by Shoghi Effendi
-Other Notes and References in this Publication
-•    •    •
-
-
 /*chapter*/Preface
-
 
 In 1953 Shoghi Effendi, the Guardian of the Bahá’í Faith, included as one of the goals of his Ten Year Plan the preparation of a Synopsis and Codification of the Laws and Ordinances of the Kitáb-i-Aqdas as an essential prelude to its translation. He himself worked on the codification, but had not finished it when he died in 1957. The task was continued on the basis of his work, and the resulting volume was released in 1973. That publication included, in addition to the Synopsis and Codification itself and explanatory notes, a compilation of the passages from the Kitáb-i-Aqdas which had already been translated by Shoghi Effendi and published in various books. The Synopsis and Codification covered the text of both the Kitáb-i-Aqdas and the Questions and Answers which constitutes an appendix to the Aqdas. In 1986 the Universal House of Justice decided that the time had come when the preparation of an English translation of the complete text of the Most Holy Book was both possible and essential and made its accomplishment a goal of the Six Year Plan 1986–1992. Its publication in English will be followed by translations in other languages.
 It has been recognized that the Kitáb-i-Aqdas, being Sacred Scripture, should be presented in a form which can be read with ease and inspiration, uncluttered with the footnotes and index numbers that are common in scholarly texts. Nonetheless, to assist the reader in following the flow of the text and its changing themes, paragraph divisions have been added—such divisions not being common in works of Arabic literature—and these paragraphs have then been numbered for ease of access and indexing, as well as for uniformity of reference in all the languages in which the work will be published.
@@ -30,7 +14,6 @@ The significance and character of the Kitáb-i-Aqdas and the range of subjects i
 
 •    •    •
 /*chapter*/Introduction
-
 
 This year, the 149th of the Bahá’í era, marks the Centenary of the Ascension of Bahá’u’lláh, Bearer of the universal Revelation of God destined to lead humanity to its collective coming of age. That this occasion should be observed by a community of believers representing a cross-section of the entire human race and established, in the course of a century and a half, in the most remote corners of the globe, is a token of the forces of unity released by Bahá’u’lláh’s advent. A further testimony to the operation of these same forces can be seen in the extent to which Bahá’u’lláh’s vision has prefigured contemporary human experience in so many of its aspects. It is a propitious moment for the publication of this first authorized translation into English of the Mother Book of His Revelation, His “Most Holy Book,” the Book in which He sets forth the Laws of God for a Dispensation destined to endure for no less than a thousand years.
 Of the more than one hundred volumes comprising the sacred Writings of Bahá’u’lláh, the Kitáb-i-Aqdas is of unique importance. “To build anew the whole world” is the claim and challenge of His Message, and the Kitáb-i-Aqdas is the Charter of the future world civilization that Bahá’u’lláh has come to raise up. Its provisions rest squarely on the foundation established by past religions, for, in the words of Bahá’u’lláh, “This is the changeless Faith of God, eternal in the past, eternal in the future.” In this Revelation the concepts of the past are brought to a new level of understanding, and the social laws, changed to suit the age now dawning, are designed to carry humanity forward into a world civilization the splendors of which can as yet be scarcely imagined.
@@ -91,7 +74,6 @@ The laws and ordinances that constitute the major theme of this Book, Bahá’u�
 •    •    •
 
 /*chapter*/The Kitáb-i-Aqdas
-
 
 In the name of Him Who is the Supreme Ruler over all that hath been and all that is to be
 

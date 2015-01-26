@@ -1,6 +1,6 @@
 ﻿/*title*/The Kitáb-i-Íqán
 The Book of Certitude
-By Bahá’u’lláh
+by Bahá’u’lláh
 
 Translated by Shoghi Effendi
 
@@ -337,9 +337,9 @@ END
 
 •    •    •
 
-/*chapter*/Notes and References in this Publication
+Notes and References in this Publication
 
-Footnotes
+/*chapter*/Footnotes
 Part One
 [1] Qur’án 36:30.
 [2] Qur’án 40:5.

@@ -1,4 +1,5 @@
 ﻿/*title*/The Light of Divine Guidance
+The messages from the Guardian of the Bahá’í Faith to the Bahá’ís of Germany and Austria
 
 /*chapter*/Volume 1
 
@@ -2658,7 +2659,8 @@ SHOGHI
 
 
 /*chapter*/Volume 2
- 
+Letters from the Guardian of the Bahá’í Faith to individual believers, groups, and Bahá’í communities in Germany and Austria
+
 /*sub-chapter*/Letter of 27 February (1922)[1]
 27 February (1922) 
 Honoured Sir: 
