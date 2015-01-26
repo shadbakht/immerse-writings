@@ -54,11 +54,15 @@
 
 (Shoghi Effendi, The World Order of Bahá’u’lláh, The World Order of Bahá’u’lláh, Local and National Houses of Justice, par 3)
 
+(Shoghi Effendi, The Light of Divine Guidance, Volume 1, Letter of 19 January 1923)
+
 (The Báb, Selections from the Writings of The Báb, Tablets and Addresses, A Tablet Addressed to “Him Who Will Be Made Manifest”, par 4)
 
 (The Ministry of the Custodians, Official Statement from the Hands of the Cause in the Holy Land, Nov. 19, 1957)
 
 (Ḥuqúqu’lláh—The Right of God, 2. Application of the Law of Ḥuqúqu’lláh, Extracts from the Writings of Bahá’u’lláh, 33.)
+
+(A Compilaton on Scholarship, From a Letter Written on Behalf of Shoghi Effendi, 6)    --[Only title, sub-sub-chapter, and number]
 
 (Bahá’í International Community, Bahá’u’lláh, Exile, par 12)
 
@@ -76,6 +80,7 @@
 
 (The Universal House of Justice, 2002 April 1, par 24)
 
+(John E. Esslemont, Bahá’u’lláh and the New Era, 2, Birthplace of the New Revelation)
 
 Buddhist: [Dhammapada and Lotus Sutra are the odd ones out, that have /*chapter*/s]
 (Sutta Pitaka (Basket of Suttas), Samyutta Nikaya (Grouped Discourses), 1 - Sagatha Vagga (Section of Verses), Brahma-samyutta (Brahma deities))
