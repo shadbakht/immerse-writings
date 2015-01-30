@@ -9,6 +9,8 @@
 
 (‘Abdu’l-Bahá, Tablet to Dr. Forel, par 23)
 
+(‘Abdu’l-Bahá, Some Answered Questions, 8: THE BÁB, par 2)
+
 (‘Abdu’l-Bahá, The Secret of Divine Civilization, par 74)
 
 (‘Abdu’l-Bahá, Tablets of 'Abdu'l-Baha Abbas, Volume II, 4:“O thou honorable lady!…”)
@@ -24,6 +26,8 @@
 (Bahá’u’lláh, The Tabernacle of Unity, Tablet of the Seven Questions, par 5)
 
 (Bahá’u’lláh, The Hidden Words, From the Arabic, 12)
+
+(Bahá’u’lláh, The Summons of the Lord of Hosts, Súriy-i-Ra’ís, par 2)
 
 (Bahá’u’lláh, The Kitáb-i-Aqdas, K 26)
 (Bahá’u’lláh, The Kitáb-i-Aqdas, Some Texts Revealed by Bahá’u’lláh Supplementary to the Kitáb-i-Aqdas, The Tablet of Ishráqát)
@@ -83,6 +87,9 @@
 (The Universal House of Justice, 2002 April 1, par 24)
 
 (John E. Esslemont, Bahá’u’lláh and the New Era, 2, Birthplace of the New Revelation)
+
+
+
 
 Buddhist: [Dhammapada and Lotus Sutra are the odd ones out, that have /*chapter*/s]
 (Sutta Pitaka (Basket of Suttas), Samyutta Nikaya (Grouped Discourses), 1 - Sagatha Vagga (Section of Verses), Brahma-samyutta (Brahma deities))
