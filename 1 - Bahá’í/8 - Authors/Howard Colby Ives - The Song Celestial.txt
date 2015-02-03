@@ -1,91 +1,149 @@
-﻿bp
-ijotoarb Colb|* 3be»
-THE
-SONG CELESTIAL
-by
-Howard Colby Ives
+﻿/*title*/The Song Celestial
+by Howard Colby Ives
+
 Illustrated by FRANKLIN KAHN
-Copyright September, 193 8 by
-Howard Colby Ives Republished by
-S’ricA' *P- TRetci S*texfiU4e&
-12315 S.E.Oatfield Rd.
-P.O. Box 22003 Milwaukee, Oregon 97222
+Copyright September, 1938 
+by Howard Colby Ives
+Republished by Erich P. Reich Enterprises 
+12315 S.E.Oatfield Rd. P.O. Box 22003 Milwaukee, Oregon 97222
+
 All Rights Reserved
 This poem, in whole or any part, is not to be used without the written permission of the author.
-R I S W A N E A
-PRELUDE
-’Tis not from sages, nor from learned books That man gains wisdom. In his secret breast A Chamber lies wherein he sometimes looks And listens. There his troubled soul finds rest,
+
+To Riswanea
+
+
+/*chapter*/PRELUDE
+’Tis not from sages, nor from learned books 
+That man gains wisdom. In his secret breast 
+A Chamber lies wherein he sometimes looks 
+And listens. There his troubled soul finds rest,
 And there, if he adores, his life is blest.
-The gloomy dust which rises from men’s minds, In their eternal search for certainty,
-Obscures the spirit’s vision, and so blinds The eye of heart that, failing Truth to see,
+
+The gloomy dust which rises from men’s minds, 
+In their eternal search for certainty,
+Obscures the spirit’s vision, and so blinds 
+The eye of heart that, failing Truth to see,
 They grope and wander in perplexity.
-But sometimes - Ah, that blessed, unwarned hourl The dust is scattered by a mystic breeze:
-Upon man’s heated mind there falls a shower From Fount Celestial, and his heart finds ease Which only God can give - Such hours are these.
 
-HOUR ONE
-A
-t
+But sometimes - Ah, that blessed, unwarned hour! 
+The dust is scattered by a mystic breeze:
+Upon man’s heated mind there falls a shower 
+From Fount Celestial, and his heart finds ease 
+Which only God can give - Such hours are these.
 
-ARGUMENT:
-Man desires God with all his heart, and in its secret Chamber holds with Him high converse. He asks God why He hides from him; says that he seeks with telescope, microscope and in the mind, but in vain. God warns him that He is not thus to be found but, rather, in the Spiritual Universe, His Home. Man asks how he may find this Universe of God and hears that all the Prophets have come to men as Guides to the way of true Life. Man complains that the Prophets have always been slain by men: how, then, can God’s love be found in men’s hearts? He is told that the true Mam is not mirrored in the lower self of man but in his true Self which is mirrored in the Prophets themselves; that man’s vision is too limited to judge correctly the long history of the race from cell to man, much less the immortal life ahead of him. Man sees no certainty of life beyond the grave for death seems victorious. God assures him that the thought of death as the end of life is superstition and reassures him. Man is content.
-HOUR ONE
-Man Speaks:
-feii
-|HY dost Thou hide Thyself from me, O God? Where’er throughout the ages man hath trod
-His mind and soul hath sought Thee. All in vain! He can but hope and trust: but I would know.
-I search through far-flung depths of stellar space; I grope adown the labyrinths of mind;
-I peer into each microscopic place And find all else: but Thee I cannot find.
-God Speaks:
-T is not I who hide, ’tis thou art blind.
-* Thine insight is so dimmed thou canst not see That My Creation’s Book revealeth Me;
-That every atom is an open door Inviting thee to enter and explore!
-What dost thou hope to see When thou goest seeking Me?
+
+/*chapter*/HOUR ONE
+
+/*sub-chapter*/ARGUMENT:
+Man desires God with all his heart, and in its secret Chamber holds with Him high converse. He asks God why He hides from him; says that he seeks with telescope, microscope and in the mind, but in vain. God warns him that He is not thus to be found but, rather, in the Spiritual Universe, His Home. Man asks how he may find this Universe of God and hears that all the Prophets have come to men as Guides to the way of true Life. Man complains that the Prophets have always been slain by men: how, then, can God’s love be found in men’s hearts? He is told that the true Man, is not mirrored in the lower self of man but in his true Self which is mirrored in the Prophets themselves; that man’s vision is too limited to judge correctly the long history of the race from cell to man, much less the immortal life ahead of him. Man sees no certainty of life beyond the grave for death seems victorious. God assures him that the thought of death as the end of life is superstition and reassures him. Man is content.
+
+/*sub-chapter*/Man Speaks:
+
+WHY dost Thou hide Thyself from me, O God? 
+Where’er throughout the ages man hath trod
+His mind and soul hath sought Thee. All in vain! 
+He can but hope and trust: but I would know.
+
+I search through far-flung depths of stellar space; 
+I grope adown the labyrinths of mind;
+I peer into each microscopic place 
+And find all else: but Thee I cannot find.
+
+/*sub-chapter*/God Speaks:
+IT is not I who hide, ’tis thou art blind.
+Thine insight is so dimmed thou canst not see 
+That My Creation’s Book revealeth Me;
+That every atom is an open door 
+Inviting thee to enter and explore!
+
+What dost thou hope to see 
+When thou goest seeking Me?
 A Face? A Voice? A word writ on the sky?
 If I should speak who art thou to reply?
-If I should write some guiding Word to men Could they interpret My Supremest Pen?
+If I should write some guiding Word to men 
+Could they interpret My Supremest Pen?
+
 For is thine eye so keen, thy mind so sure,
-That when My Spirit moves thee, and I lure Thy longing soul afar To probe the mote and star,
-Thou canst in such wise hope to limit Me Who doth surround what mind and eye can see?
-Canst thou thus find Me Who both far and near Create? Who causeth all things to appear And them inspire? Who willeth dawns to break, And rivers flow, and suns their orbits make?
+That when My Spirit moves thee, and I lure 
+Thy longing soul afar 
+To probe the mote and star,
+Thou canst in such wise hope to limit Me 
+Who doth surround what mind and eye can see?
+
+Canst thou thus find Me Who both far and near 
+Create? Who causeth all things to appear 
+And them inspire? Who willeth dawns to break, 
+And rivers flow, and suns their orbits make?
+
 Such futile search shall surely be unblest.
-What then, My son, didst thou desire to prove? Canst thy frail mind encompass thus My love?
-O son of Love! For thee can be no rest Save love for Me and calm upon My breast.
+What then, My son, didst thou desire to prove? 
+Canst thy frail mind encompass thus My love?
+O son of Love! For thee can be no rest 
+Save love for Me and calm upon My breast.
+
 Wert thou through all eternity to seek,
 And through immensity of space to roam,
 Thy spirit shall no foot-hold find,
 No answer to thy questing mind,
-Except to My command thou shalt bow down; Unless My Love thou wearest like a crown,
+Except to My command thou shalt bow down; 
+Unless My Love thou wearest like a crown,
 And find in meeting Me thy spirit’s home.
+
 I am not far from thee but ever near:
 Listen to thy heart’s whisper: "I am here.”
-There lies but one soul-step ’twixt thee and Me: Take that one step into Eternity.
-That Life; is now if thou that step wilt take And from thy temple vigorously shake The ragged mantle of mortality.
+
+There lies but one soul-step ’twixt thee and Me: 
+Take that one step into Eternity.
+
+That Life; is now if thou that step wilt take 
+And from thy temple vigorously shake 
+The ragged mantle of mortality.
 For that My royal robe I offer thee,
 And bid thee share My Eternality.
-I
-Man Speaks:
-$
-HESE things have I from youth been taught,
-inj^nl I know this as I know some Sanscrit word A learned man once taught me. Ah, but still I seek and find Thee not. I find not God Within my heart, nor in the star nor clod.
+
+/*sub-chapter*/Man Speaks:
+THESE things have I from youth been taught, O Lord
+I know this as I know some Sanscrit word 
+A learned man once taught me. Ah, but still 
+I seek and find Thee not. I find not God 
+Within my heart, nor in the star nor clod.
 ’Tis Thee I want: O, pray that need fulfil!
-A fire glows ever in my yearning breast Which only knowing Thee can quench. No rest Nor peace I ask, no mortal anguish shun,
-Could I but purchase thus the vision clear Of Thee. Not words about Thee: I have done With words. For this no price nor pain too dear.
-)
-[ 5 ]
-God Speaks:
-^JJTHOU of visions twain! The outer eye
-Close fast and open wide thine insight keen, Sm^I Then thou shalt see that I had just begun Creation when I made the moon and sun,
+
+A fire glows ever in my yearning breast 
+Which only knowing Thee can quench. No rest 
+Nor peace I ask, no mortal anguish shun,
+Could I but purchase thus the vision clear 
+Of Thee. Not words about Thee: I have done 
+With words. For this no price nor pain too dear.
+
+/*sub-chapter*/God Speaks:
+O THOU of visions twain! The outer eye
+Close fast and open wide thine insight keen, 
+Then thou shalt see that I had just begun 
+Creation when I made the moon and sun,
 The earth, and all thine outer eye hath seen.
+
 My Universe of spirit is so vast,
 So filled with beauty and with Light supreme,
-That when men glimpse It they all lightly cast This world aside: a barren, ugly dream.
-Man Speaks:
-GOD! O God! The world I sense is all That I can know. Thou gavest me a mind Which honestly I use: yet there’s a call Resounding in my heart which bids me find A higher world. O help me: I am blind!
-God Speaks:
-HE heavens of My Mercy are so vast;
+That when men glimpse It they all lightly cast 
+This world aside: a barren, ugly dream.
+
+/*sub-chapter*/Man Speaks:
+O GOD! O God! The world I sense is all 
+That I can know. Thou gavest me a mind 
+Which honestly I use: yet there’s a call 
+Resounding in my heart which bids me find 
+A higher world. O help me: I am blind!
+
+/*sub-chapter*/God Speaks:
+THE heavens of My Mercy are so vast;
 The Oceans of My Bounty so unbound,
-That never hath a soul besought unblest, Nor any seeker but hath surely found.
-It is for this that all My Prophets came That They might lead men thither, and man’s claim To paradise, which like celestial fire I lighted in his heart, substantiate.
+That never hath a soul besought unblest, 
+Nor any seeker but hath surely found.
+
+It is for this that all My Prophets came 
+That They might lead men thither, and man’s claim To paradise, which like celestial fire I lighted in his heart, substantiate.
 Not temples to My Glory dedicate
 Nor prayers from sullied lips that supplicate,
 Do They desire, nor can with Me prevail.
