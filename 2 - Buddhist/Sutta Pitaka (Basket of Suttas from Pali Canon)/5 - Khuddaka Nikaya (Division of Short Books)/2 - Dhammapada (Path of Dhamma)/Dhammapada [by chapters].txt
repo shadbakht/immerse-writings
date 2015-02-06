@@ -1,7 +1,6 @@
 ﻿/*title*/The Dhammapada
-A Translation
-translated from the Pali by
-Thanissaro Bhikkhu
+
+Translated from the Pali by Thanissaro Bhikkhu
 © 1997
 
 
