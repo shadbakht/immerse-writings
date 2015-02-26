@@ -1034,7 +1034,8 @@ He is God, exalted be He, the Lord of majesty and power! The Prophets and Chosen
 In one of the Tablets He, exalted be His words, hath revealed: And in the matter of Zakát, We have likewise decreed that you should follow what hath been revealed in the Qur’án.
 
 •    •    •
-/*chapter*/Synopsis and Codification of the Laws and Ordinances of the Kitáb-i-Aqdas
+/*chapter*/Synopsis and Codification
+of the Laws and Ordinances of the Kitáb-i-Aqdas
 
 
 /*sub-chapter*/Summary of Contents
@@ -2287,9 +2288,8 @@ Paragraph:
 
 
 •    •    •
-/*chapter*/Other Notes and References in this Publication
+/*chapter*/Footnotes
 
-Footnotes:
 The Kitáb-i-Aqdas
 [1] Napoleon III
 [2] Ṭihrán

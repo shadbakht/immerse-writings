@@ -63,7 +63,8 @@ However, as the efforts so unconditionally expended for the formation of the oth
 And this Regional Assembly of the Benelux would continue to guide the destiny of our three countries until the election of independent National Spiritual Assemblies in April 1962.
 
 
-/*chapter*/Messages/*sub-chapter*/1: Louise Drake Wright, 14 April 1932
+/*chapter*/Messages
+/*sub-chapter*/1: Louise Drake Wright, 14 April 1932
 Dear Miss Wright:[1]
 Shoghi Effendi wishes me to drop you these few lines to acknowledge the receipt of your cable asking his advice concerning your teaching tour. He believes that the most advisable thing is to concentrate upon northern Germany and Holland. He has already asked Miss Jack[2] to stay in Sofia and Mr. Benke[3] is going to join her. Mrs. Gregory[4] and Martha[5] are to devote most of their time to Central Europe especially Hungary, Austria and Poland. This makes Eastern and Central Europe well provided for.
 Shoghi Effendi therefore believes that you could render greater services if you visit the centers in Germany especially the northern part and also include Holland.
@@ -1224,7 +1225,6 @@ Any correspondence which you wish to have with the Holy Land concerning this mat
 Sincerely yours, Leroy Ioas
 
 
-
 [Index of Persons and Places omitted]
 
 
@@ -1237,6 +1237,7 @@ The photograph of Marthe Molitor is printed with thanks to Anne Noury
 
 The task force:
 Hugo van Bolhuis, Toos ten Brink, Wilco Broekhuizen, Jan Folkema, Claire-Anne Thill, Jelle de Vries.
+
 
 
 /*chapter*/Footnotes

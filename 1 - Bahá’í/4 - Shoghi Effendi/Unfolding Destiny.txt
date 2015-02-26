@@ -11,9 +11,10 @@ Shoghi
 “That the entire community may befittingly respond to the call of the present hour and bring to a final consummation the Mission with which it has been entrusted is the deepest yearning of my heart and the object of my unceasing prayers.” 
 Shoghi  
 
+
 /*chapter*/THE SEEDS ARE TENDED
 1922–1944
-/*sub-chapter*//*sub-chapter*/Letter of 5 March 1922
+/*sub-chapter*/Letter of 5 March 1922
 5 March 1922[1]
 Dear Fellow-workers in the Cause of Bahá’u’lláh, 
 It is with words of regret and disappointment that I desire to open this letter because of my inability, in view of my manifold and pressing duties, to respond individually and in writing to the many messages of love and sympathy and of hope that you have so affectionately sent me since our Beloved’s passing from this World. I am sure I am voicing the sentiments of the bereaved ladies of the Household when I say that however desirous we may be to correspond separately with every one of you, the grave responsibilities and manifold duties now devolved upon us make it regrettably impossible to express in written messages to every friend what we constantly feel in our hearts, and pray for when visiting His sacred Shrine. 
@@ -35,7 +36,8 @@ Large issues in such spiritual activities that affect the Cause in general in th
 The time is indeed ripe for the manifold activities, wherein the servants and handmaidens of Bahá’u’lláh are so devoutly and earnestly engaged, to be harmonised and conducted with unity, co-operation and efficiency, that the effect of such a combined and systematised effort, through which an All-powerful Spirit is steadily pouring, may transcend every other achievement of the past, however glorious it has been, and may stand, now that, to the eyes of the outside world the glorious Person of the Master is no more, a convincing testimony of the potency of His everliving Spirit. 
 Your brother and co-worker in His Cause, 
 Shoghi 
-/*sub-chapter*//*sub-chapter*/Letter of 16 December 1922
+
+/*sub-chapter*/Letter of 16 December 1922
 16 December 1922 
 To my spiritual brethren and sisters in Great Britain. 
 Care of the members of the Spiritual Council.[2]
@@ -49,7 +51,8 @@ My earnest prayer is that the blessing of the Almighty may rest upon all its del
 With abiding affection and renewed vigour I shall now await the joyful tidings of the progress of the Cause and the extension of your activities, and will spare no effort in sharing with the faithful, here and in other lands, the welcome news of the progressive march of the Cause and the unceasing labours of our British friends for the Cause of Bahá’u’lláh. 
 Your brother, 
 Shoghi 
-/*sub-chapter*//*sub-chapter*/Letter of 23 December 1922
+
+/*sub-chapter*/Letter of 23 December 1922
 23 December 1922 
 To my beloved brethren and sisters throughout Great Britain. 
 Care of the members of the Bahá’í Council. 
@@ -63,7 +66,8 @@ To my extreme regret, I feel unable in view of my manifold and pressing duties, 
 Remembering every one of you in these hallowed surroundings and fervently praying at the three sacred Thresholds that the blessings of the Lord may rest upon your individual and collective efforts, 
 I am as ever your devoted brother, 
 Shoghi 
-/*sub-chapter*//*sub-chapter*/Letter of 17 February 1923
+
+/*sub-chapter*/Letter of 17 February 1923
 17 February 1923 
 The beloved of the Lord and the handmaids of the Merciful throughout London, Manchester and Bournemouth. 
 Care of the members of the National Spiritual Assembly.[3]
@@ -78,7 +82,8 @@ I have recently received a message from our beloved brethren and sisters in Germ
 I am always looking forward to receiving your letters and hear from you personally in all matters pertaining to the Cause. It is my earnest prayer whenever I visit the Sacred Shrines, that the friends in England may be always protected, guided and blessed in their work of service to the Cause, and may soon witness the fulfilment of the glorious promises of the Master regarding the future of that land and the spiritual re-awakening of its people. 
 Your brother and fellow-worker, 
 Shoghi 
-/*sub-chapter*//*sub-chapter*/Letter of 24 February 1923
+
+/*sub-chapter*/Letter of 24 February 1923
 24 February 1923 
 Dear Spiritual Brother, 
 Your letter to Shoghi Effendi has been received and was read by him with keen delight and satisfaction for it bespoke of the new spirit of ardent devotion that has enkindled the hearts of the faithful followers of Bahá, and of their loyal and active endeavours in the path of service. Should the friends continue in their labours of love and service their activities will yield glorious results and they shall witness the realisation of the promises of the Beloved regarding the spiritual achievements of the friends in that land. 
@@ -86,7 +91,8 @@ Shoghi Effendi is highly gratified and encouraged to know that the friends have 
 He is very pleased to know that you are faithfully working for peace and harmony amongst the friends; and he prays that you may be blessed in your endeavours and be inspired and guided to clear all misunderstandings that may arise; and may help bring about that spirit of unity which is so essential to the life and growth of the Cause. There is no doubt that difficulties will always arise; but if met in the spirit of earnest and selfless devotion and purity of motive all problems will be solved and we shall emerge from every difficulty spiritually stronger and wiser. 
 Shoghi Effendi wishes to extend to you his thanks for your giving him the report of the activities of the friends there. He will soon write a letter to the Assembly based on their report. He wishes you to rest assured that his thoughts and prayers are with you wishing you all success in your labours for the promulgation of the Blessed Cause. 
 Although unable to write individual letters he will gladly welcome all letters that you will send him in the future... 
-/*sub-chapter*//*sub-chapter*/Letter of 29 November 1923
+
+/*sub-chapter*/Letter of 29 November 1923
 29 November 1923 
 To the members of the English National Spiritual Assembly 
 My dearly-beloved fellow-workers in the Vineyard of God! 
@@ -102,7 +108,8 @@ I am enclosing for the friends recent translations of the wonderful prophetic ut
 Awaiting eagerly your letters, individually as well as collectively, 
 I am your brother, 
 Shoghi 
-/*sub-chapter*//*sub-chapter*/Letter of 9 December 1923
+
+/*sub-chapter*/Letter of 9 December 1923
 9 December 1923 
 My dear Mr. Simpson, 
 Your short yet encouraging letter was gladly received by our dear Shoghi Effendi just yesterday evening. He felt very pleased indeed with that spirit of hopefulness which your letter conveyed, and he eagerly hopes that in the days to come nothing will mar the brightness and optimism of his English brethren and sisters over in the West. 
@@ -114,7 +121,8 @@ My beloved brother,
 My deepest admiration for your indefatigable exertions for the success of the Cause. I will always remember you in my prayers and await eagerly your personal letters. I welcome any suggestions and further particulars regarding the conference on the Living Religions within the British Empire. 
 Your brother, 
 Shoghi 
-/*sub-chapter*//*sub-chapter*/Letter of 6 January 1924
+
+/*sub-chapter*/Letter of 6 January 1924
 6 January 1924 
 Dear Bahá’í Brother, 
 Your letter of Dec. 23rd furnishing necessary information concerning the Conference on Religions arrived and made our dear Guardian highly pleased and delighted. 
@@ -127,7 +135,8 @@ Shoghi Effendi is sending you his love and affection together with his deep appr
 My dear friend, 
 I enclose a copy of my recent letter to the National Spiritual Assembly of America regarding the Conference as well as copies of my recent translation of some of the most remarkable and prophetic utterances of Bahá’u’lláh and ‘Abdu’l-Bahá which might interest the friends in Great Britain. Pray convey my love to all of them. 
 Shoghi 
-/*sub-chapter*//*sub-chapter*/Letter of 4 January 1924 (Enclosure)
+
+/*sub-chapter*/Letter of 4 January 1924 (Enclosure)
 4 January 1924 (Enclosure) 
 To the members of the American National Spiritual Assembly. 
 My dearest friends! 
@@ -145,7 +154,8 @@ I am enclosing recent translations of the prophetic and most remarkable words of
 May this great project yield an abundant harvest for the Cause, and your efforts be richly blessed by the guiding Spirit of ‘Abdu’l-Bahá. 
 Your fellow-worker, 
 Shoghi 
-/*sub-chapter*//*sub-chapter*/Letter of 18 January 1924
+
+/*sub-chapter*/Letter of 18 January 1924
 18 January 1924 
 My dear Mr. Simpson, 
 Shoghi Effendi was glad to hear from you again and hopes that the activities of the friends in England are progressing day after day. There is really so much to be done in almost every country that the more the friends accomplish, the larger does the field of service become. As a matter of fact in many countries we can hardly claim to have fully represented the Cause and to have declared its strong and sublime principles to all classes of men. It is with a vision of greater accomplishments among higher and higher circles of society, that our Guardian wishes his fellow-workers to feel inspired; and in these dark and dismal days it is the proclamation of Bahá’u’lláh’s great Message for which the faithful servant must strive with heart and soul. 
@@ -156,7 +166,8 @@ My dear fellow-worker,
 I always look forward with keen anticipation to any news from England indicating the progress and advancement of the Cause so dear to our hearts. I pray ardently for every one of you and assure you personally of my affection, esteem and gratitude, 
 Your brother, 
 Shoghi 
-/*sub-chapter*//*sub-chapter*/Letter of 6 February 1924
+
+/*sub-chapter*/Letter of 6 February 1924
 6 February 1924 
 My dear Mr. Simpson, 
 I wish to acknowledge receipt of your letter to our dear Guardian and assure you that he is always most glad to hear from you in person and to know still more of the activities of his fellow-workers in that country. At a time when the whole work and administration of the Cause with all its overpowering intensity and extent has devolved upon the shoulders of our youthful Guardian, I am sure you quite well realise what every single expression of the progress of the Cause he stands for would mean to him as our leader and captain; and at a time when the varied questions and problems that the Bahá’í Movement, on its way to the spiritual reconquest of the world, is confronted with, seem endless in number, I hardly need mention what effect the personal assurance and the undying enthusiasm of his fellow-workers would bear upon the tender heart of Shoghi Effendi. 
@@ -165,7 +176,8 @@ Concerning the passing away of Mr. Hall’s father, he wishes me to ask you to e
 My esteemed brother:— 
 Just a word of appreciation on my part of your devoted and persistent efforts in the service of the Cause. Do please convey to our precious Mr. Hall my condolences and sentiments of undying affection as well as the assurance of my ardent prayers for the welfare and spiritual happiness of his dear family and the Manchester Bahá’í Group. 
 Shoghi 
-/*sub-chapter*//*sub-chapter*/Letter of 11 June 1924
+
+/*sub-chapter*/Letter of 11 June 1924
 11 June 1924 
 To Mr. Simpson, President of the Bahá’í National Spiritual Assembly of England. 
 My dear and revered Bahá’í Brother, 
@@ -182,7 +194,8 @@ Your humble brother and co-worker in His service,
 Bahíyyih Khánum, Haifa 
 ARTICLE MAILED ELEVENTH BOTH HAIFA LONDON GLADLY ACT CONFERENCE. 
 MILLS 
-/*sub-chapter*//*sub-chapter*/Letter of 16 July 1924
+
+/*sub-chapter*/Letter of 16 July 1924
 16 July 1924 
 My dear Bahá’í Brother, 
 ...I have to write you and inform you that only yesterday I had the privilege of receiving a letter from our dear Guardian who is still away from Haifa ... he wishes me to write you, in answer to your letter to him, that he very much regrets to be unable to be present in London and represent a Cause to which he has ... dedicated his heart and soul. Were it at all possible for me to send you his short note, you would see for yourself with what a spirit he expresses his deep regret.... Although he realises your disappointment at his inability to go to London, he wishes me to assure every one of you that his eager prayers for you all is unfailing and that it is with a glad heart that he cherishes the fondest hopes in the effort that the proceedings of the religious Conference shall have on the audience. May I also add that this is a hope in which everybody shares especially the Greatest Holy Leaf and the members of the family. 
@@ -190,11 +203,13 @@ I presume by now you have already received a copy of the address that is to be r
 You might be interested to know that the news of the progress of the Cause among the Kadiani sect in India is quite surprising and two of their chief leaders have not only become Bahá’ís, but have started an admirable little weekly, I think, through which they hope to bring many of their colleagues over. By the way, I believe the leader of the sect who is himself a young man is coming over to London to represent his sect at the Conference. 
 The confusion and disorder in Persia which had aroused so much apprehension on the part of the helpless Bahá’ís and had even led in one case to actual martyrdom, has apparently subsided for the moment. 
 Here in Haifa everybody is in good health. With heartfelt greetings to all the friends in London.... 
-/*sub-chapter*//*sub-chapter*/Letter of 23 September 1924
+
+/*sub-chapter*/Letter of 23 September 1924
 23 September 1924 
 MAY WEMBLEY (sic CONFERENCE) FULFIL YOUR FONDEST HOPES PRAY CONVEY AUTHORITIES MY SINCERE REGRET AT INABILITY TO BE PRESENT I WISH THEM FULL SUCCESS IN THEIR NOBLE ENDEAVOURS. 
 SHOGHI 
-/*sub-chapter*//*sub-chapter*/Letter of 24 September 1924
+
+/*sub-chapter*/Letter of 24 September 1924
 24 September 1924[4]
 The beloved of the Lord and the hand-maids of the Merciful in Great Britain. 
 Care of the National Spiritual Assembly. 
@@ -208,20 +223,23 @@ Looking back upon those sullen days of my retirement, bitter with feelings of an
 I can well imagine the degree of uneasiness, nay of affliction, that must have agitated the mind and soul of every loving and loyal servant of the Beloved during these long months of suspense and distressing silence. But I assure you such remarkable solicitude as you have shown for the protection of His Cause, such tenacity of faith and unceasing activity as you have displayed for its promotion, cannot but in the end be abundantly rewarded by ‘Abdu’l-Bahá, who from His station above is the sure witness of all that you have endured and suffered for Him. 
 And now as I look into the future, I hope to see the friends at all times, in every land, and of every shade of thought and character, voluntarily and joyously rallying round their local and in particular their national centres of activity, upholding and promoting their interests with complete unanimity and contentment, with perfect understanding, genuine enthusiasm, and sustained vigour. This indeed is the one joy and yearning of my life, for it is the fountain-head from which all future blessings will flow, the broad foundation upon which the security of the Divine Edifice must ultimately rest. May we not hope that now at last the dawn of a brighter day is breaking upon our beloved Cause? 
 Shoghi 
-/*sub-chapter*//*sub-chapter*/Letter of 10 October 1924
+
+/*sub-chapter*/Letter of 10 October 1924
 10 October 1924 
 My dear good brother, 
 Your letter of Sept. 30th written to our beloved Guardian, Shoghi Effendi, arrived and rejoiced his dear heart with its very interesting contents. 
 Yesterday he instructed me to translate a great part of it into Persian so that it may be inserted in the circular of the Haifa Spiritual Assembly and also to convey to you his great affection for you and the dear English friends who so splendidly laboured towards the dignified representation of the Cause of God at the Conference on Religions. 
 We have already the reports given in “The Times” from the two sessions of the Conference allotted to the Aḥmadíyyih people and to us. Both are very interesting indeed.... 
 Shoghi Effendi prays for the success and confirmation of you and all the dear and noble English friends whose earnestness of efforts towards the welfare of the Cause of God he highly admires and appreciates with profound love.... 
-/*sub-chapter*//*sub-chapter*/Letter of 10 October 1924
+
+/*sub-chapter*/Letter of 10 October 1924
 10 October 1924 
 My dearly-beloved brother, 
 I am highly gratified with your splendid achievements and deeply appreciative of your painstaking efforts. More power to your elbow! You are rendering our precious Cause a splendid service in its hour of need! Lady Blomfield’s idea of a reception was undoubtedly inspired and was admirably executed. It has indeed rejoiced my heart. My love and my gratitude for her wise, patient and fruitful efforts. 
 Your brother, 
 Shoghi 
-/*sub-chapter*//*sub-chapter*/Letter of 25 October 1924
+
+/*sub-chapter*/Letter of 25 October 1924
 25 October 1924 
 My dear Bahá’í Brother, 
 Your very interesting letter of Oct. 15th. written to our beloved Guardian together with the printed copy of the sermon of Dr. Walsh arrived the day before yesterday and imparted great joy to his dear heart. He cherishes great hopes for the bright future of the Cause in England. Of course his hopes are partly based on the intrinsic mighty power of the Cause of God and partly on the dignified way the dear friends in England are presenting the Cause of God to the public. 
@@ -231,7 +249,8 @@ The members of the Holy Family and the friends in Haifa are thinking of you and 
 My dearest friend, 
 I wish to add a few words of assurance and sympathy in view of the heavy burden of responsibility that rests on your shoulders in these difficult and trying times. My fervent and increasing prayer is that ‘Abdu’l-Bahá may show you the way that will enable you to continue your splendid pioneer work effectually, peacefully, free from every earthly care and anxiety. Dr. Walsh’s sermon is astonishingly good. I wish you would send me about 50 copies of the same. I pray unceasingly for my friends in England. 
 Shoghi 
-/*sub-chapter*//*sub-chapter*/Letter of 4 November 1924
+
+/*sub-chapter*/Letter of 4 November 1924
 4 November 1924 
 My dear Mr. Simpson, 
 It is always a pleasure to acknowledge receipt of your letters to our dear Guardian, and he was deeply interested in the minutes of the last meeting of the N.S.A. which you were so kind as to enclose. 
@@ -242,7 +261,8 @@ My dear fellow-worker,
 I trust that the prolonged visit of Dr. Esslemont will prove to be in future pregnant with far-reaching possibilities for the service of the Cause in England. To yourself I send my imperishable love and brotherly greetings. 
 Affectionately, 
 Shoghi 
-/*sub-chapter*//*sub-chapter*/Letter of 22 November 1924
+
+/*sub-chapter*/Letter of 22 November 1924
 22 November 1924 
 My dear Mr. Simpson, 
 The letter you had sent through Dr. Esslemont to Shoghi Effendi has arrived and it gave him very great pleasure to read it. Although it is quite beyond me to express to you just what thoughts and sentiments your frank expressions of loyalty and love aroused in his heart, this I feel I can assure you that it made him hopeful of the future and added to his great confidence in you. 
@@ -256,7 +276,8 @@ My most precious fellow-worker,
 But for your unremitting labours, your sound and selfless efforts, the burden that weighs upon me would prove well-nigh unbearable. I am sure your heart responds to the sentiments that surge in my heart. I have a profound admiration for the heroic manner in which you are rendering such pioneer service to the Cause in England. May the Master sustain you, comfort you and uphold you in your great task. Be assured of my brotherly, unfailing prayers. 
 I am your true and affectionate brother, 
 Shoghi 
-/*sub-chapter*//*sub-chapter*/Letter of 24 November 1924
+
+/*sub-chapter*/Letter of 24 November 1924
 24 November 1924[5]
 To my dearly beloved brothers and sisters in ‘Abdu’l-Bahá. 
 Care of the English National Spiritual Assembly. 
@@ -272,10 +293,12 @@ If we all choose to tread faithfully His path, surely the day is not far distant
 I entreat you, dear friends, to continue, nay, to redouble your efforts, to keep your vision clear, your hopes undimmed, your determination unshaken, so that the power of God within us may fill the world with all its glory. 
 In this fervent plea joins me the Greatest Holy Leaf. Though chagrined in the evening of her life at the sorrowful tales of repression in Persia, she still turns with the deepest longings of her heart to your land where freedom reigns, eager and expectant to behold, ere she is called away, the signs of the universal triumph of the Cause she loves so dearly. 
 Shoghi 
-/*sub-chapter*//*sub-chapter*/Letter of 13 February 1925
+
+/*sub-chapter*/Letter of 13 February 1925
 13 February 1925 
 “I have read with the deepest pleasure the Minutes of the meeting of your National Assembly and am deeply gratified to note the constancy, devotion and thoroughness with which you are conducting your affairs.” (Copied from National Spiritual Assembly Minutes, 28 February 1925) 
-/*sub-chapter*//*sub-chapter*/Letter of 26 March 1925
+
+/*sub-chapter*/Letter of 26 March 1925
 26 March 1925 
 My dear Bahá’í Brother, 
 Your interesting letter of March 12th written to our beloved Guardian together with the draft minutes of the 12th meeting of your National Spiritual Assembly has been received. The draft on Haifa for the sum of thirty-three pounds sterling which is the joint contribution of the English friends for the relief of their suffering brothers at Nayríz, and enclosed in your letter, has also been received. This sum has been added to contributions received from other centres and will be sent by next mail to the National Spiritual Assembly of Persia. From Persia they shall acknowledge the receipt of this sum directly and for the present, our Guardian acknowledges its receipt gratefully and wishes you to kindly convey his gratitude to all the dear friends who have so kindly and generously contributed. 
@@ -286,11 +309,13 @@ My precious fellow-worker,
 The prompt and generous contribution of the British friends for the relief of the sufferers in Nayríz is deeply appreciated and I wish to offer through you to them all in the name of the victims of that great catastrophe my deep and grateful thanks. May the All-Bountiful reward and bless them a hundred fold! The sum of approximately 1000 pounds has been until now collected from various parts of the Bahá’í world and more is expected. What an admirable and convincing testimony of the reality of the Bahá’í bond that binds the East with the West. Regarding the historical compilation suggested by the Persian friends, I think your plan is suitable and correct. The English N.S.A. will I trust collect all the data and exercise its discretion and judgment in collating all the material received from the friends and assemblies throughout Great Britain, and, after having given it a definite and final shape, will forward it direct to Persia. I would welcome a copy of it myself. Assuring you of my gratitude and prayers, 
 Your true brother, 
 Shoghi 
-/*sub-chapter*//*sub-chapter*/Letter of 2 November 1925
+
+/*sub-chapter*/Letter of 2 November 1925
 2 November 1925 
 IRÁQ’S SUPREME COURT UNEXPECTEDLY PRONOUNCED VERDICT AGAINST US IN BAGHDÁD CASE STRONGLY ADVISE NATIONAL AND EVERY LOCAL ASSEMBLY COMMUNICATE BY CABLE AND LETTER WITH ‘IRÁQ HIGH COMMISSIONER APPEALING ARDENTLY FOR ACTION TO ENSURE THE SECURITY OF BAHÁ’U’LLÁH’S SACRED HOUSE. 
 SHOGHI. 
-/*sub-chapter*//*sub-chapter*/Letter of 6 November 1925
+
+/*sub-chapter*/Letter of 6 November 1925
 6 November 1925[6]
 To the beloved of the Lord and the handmaids of the Merciful throughout the East and throughout the West. 
 Dearly-beloved friends: 
@@ -301,7 +326,8 @@ Widespread and effective publicity along these lines, in well-conceived and care
 Having exerted ourselves to the utmost of our ability, let us rest assured in the power of the Lord, Who keepeth watch over His house, and Who will, no matter how dark present prospects appear, assure for generations yet unborn His cherished and holy edifice. 
 Your brother and fellow-worker, 
 Shoghi 
-/*sub-chapter*//*sub-chapter*/Letter of 11 November 1925
+
+/*sub-chapter*/Letter of 11 November 1925
 11 November 1925 
 Dear Friends, 
 I have been asked to enclose for your kind attention the following papers:— 
@@ -310,7 +336,8 @@ I have been asked to enclose for your kind attention the following papers:—
 3. The system of transliteration to be used in all Bahá’í references. 
 4. A plan of the immediate neighbourhood of the Shrines in Haifa showing in approximate proportions the different plots around it. 
 In view of the extreme importance of the aforementioned papers, Shoghi Effendi trusts that all necessary measures will be taken to insure their prompt distribution among all the different assemblies and among all such recognised Bahá’ís as your distinguished assembly deems fit and advisable.... 
-/*sub-chapter*//*sub-chapter*/Letter of 12 November 1925
+
+/*sub-chapter*/Letter of 12 November 1925
 12 November 1925 
 Dear Bahá’í Brother, 
 Our dear Guardian was very glad to receive your letter of Nov. 4th through which you acquaint him with the steps you have already taken in carrying out his instruction concerning the Baghdád House. 
@@ -321,11 +348,13 @@ My dear self-sacrificing brother,
 The wise and prompt measures you have taken have given me the utmost satisfaction. I trust your devoted endeavours will be crowned with full success. I have sent you a few days ago various circulars, a list of transliterated terms and the plan of the surroundings of the Holy Shrine, copies of all of which I earnestly request you to place in the hands of every recognised believer. 
 Your grateful brother, 
 Shoghi 
-/*sub-chapter*//*sub-chapter*/Letter of 23 November 1925
+
+/*sub-chapter*/Letter of 23 November 1925
 23 November 1925 
 BELOVED ESSLEMONT PASSED AWAY, COMMUNICATE FRIENDS AND FAMILY DISTRESSING NEWS URGE BELIEVERS DEDICATE SPECIAL DAY FOR UNIVERSAL PRAYER AND REMEMBRANCE. 
 SHOGHI 
-/*sub-chapter*//*sub-chapter*/Letter of 27 November 1925
+
+/*sub-chapter*/Letter of 27 November 1925
 27 November 1925 
 My dear Bahá’í Brother, 
 I find it very hard to be able to express in adequate words our deep feelings and sorrow at the loss of our dearly-beloved brother Dr. Esslemont. Those of us who had known him only since his sojourn in Haifa, had even in that short period of time, learnt to admire and love him. How much more so those of you to whom he was an old friend and fellow-worker. 
@@ -336,7 +365,8 @@ The funeral service was both simple and touching. His body was washed by two of 
 In case you think it would please them you are perfectly welcome to communicate to the family of Dr. Esslemont the particulars of his death and burial. Enclosed you will please find a letter from Shoghi Effendi addressed to the family and relations of the deceased. You will please have it read by his wife, who I believe is in London, and then sent over to his father and sister who are in Aberdeen. 
 Due to the reason that Shoghi Effendi hopes to build in the near future the grave of Dr. Esslemont on his behalf and on behalf of all the friends, our Guardian would like very much to have the design chosen by the family of the deceased. Of course you would let them know that through certain considerations it would be best to have the design devoid of any cross as that in this country would particularise it to the Christian faith. You would let the family know that the expense would be defrayed by the friends all over the world and by Shoghi Effendi himself. 
 Shoghi Effendi would also like you to send the picture of Dr. Esslemont to the countries where the friends have published magazines with a request to have it published. They are America, India, Germany and Australia. He wants you also to write a comprehensive biographical sketch of the life of Dr. Esslemont for “The Star” in America laying most stress on his life since he became a Bahá’í. This of course does not necessarily mean that you should write it yourself but anyone in London. You should also make mention of him in your circular letter in detail.... 
-/*sub-chapter*//*sub-chapter*/Letter of 30 November 1925
+
+/*sub-chapter*/Letter of 30 November 1925
 30 November 1925[7]
 To the beloved of God and the handmaids of the Merciful in the East and in the West. 
 Dear fellow-workers, 
@@ -345,7 +375,8 @@ He bore his sufferings with admirable fortitude, with calm resignation and coura
 With tearful eyes I supplicate at the Threshold of Bahá’u’lláh—and request you all to join—in my ardent prayers, for the fuller unfolding in the realms beyond of a soul that has already achieved so high a spiritual standing in this world. For by the beauty of his character, by his knowledge of the Cause, by the conspicuous achievements of his book, he has immortalised his name, and by sheer merit deserved to rank as one of the Hands of the Cause of God. 
 He has been laid to rest in the heart of that beautifully situated Bahá’í burial ground at the foot of Carmel, close to the mortal remains of that venerable soul, Ḥájí Mírzá Vakílu’d-Dawlih, the illustrious cousin of the Báb and chief builder of the Mashriqu’l-Adhkár of Ishqábád. Pilgrims visiting his grave from far and near will, with pride and gratitude, do honour to a name that adorned the annals of an immortal Cause. 
 May he eternally rest in peace. Shoghi 
-/*sub-chapter*//*sub-chapter*/Letter of 5 December 1925
+
+/*sub-chapter*/Letter of 5 December 1925
 5 December 1925 
 My dear Mr. Simpson, 
 I write to acknowledge receipt of your two letters of Nov. 25 and 28th to Shoghi Effendi and to thank you on his behalf for all the trouble you have taken in communicating to the friends and to his family the sad news of the passing away of Dr. Esslemont. Shoghi Effendi cannot but appreciate the many evidences of your devotion and love. 
