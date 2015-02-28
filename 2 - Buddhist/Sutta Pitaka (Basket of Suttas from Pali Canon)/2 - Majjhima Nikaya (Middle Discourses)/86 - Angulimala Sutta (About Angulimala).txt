@@ -1,4 +1,4 @@
-﻿Angulimala Sutta: About Angulimala
+﻿/*title*/Angulimala Sutta: About Angulimala
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2003

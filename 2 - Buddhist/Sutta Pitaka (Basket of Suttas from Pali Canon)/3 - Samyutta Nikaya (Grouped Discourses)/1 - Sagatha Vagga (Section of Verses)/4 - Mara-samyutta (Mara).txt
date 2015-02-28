@@ -1,4 +1,4 @@
-﻿4 - Mara-samyutta (Mara)
+﻿/*title*/4 - Mara-samyutta (Mara)
 4.8 Nandana Sutta: Delight
 translated from the Pali by
 Thanissaro Bhikkhu

@@ -1,4 +1,4 @@
-﻿Samana-Mundika Sutta: Mundika the Contemplative
+﻿/*title*/Samana-Mundika Sutta: Mundika the Contemplative
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2003

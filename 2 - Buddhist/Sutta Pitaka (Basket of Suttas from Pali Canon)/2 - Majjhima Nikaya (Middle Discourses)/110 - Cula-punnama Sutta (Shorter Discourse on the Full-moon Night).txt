@@ -1,4 +1,4 @@
-﻿Cula-punnama Sutta: The Shorter Discourse on the Full-moon Night
+﻿/*title*/Cula-punnama Sutta: The Shorter Discourse on the Full-moon Night
 translated from the Pali by
 Thanissaro Bhikkhu
 © 1999

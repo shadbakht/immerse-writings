@@ -1,4 +1,4 @@
-﻿Assalayana Sutta: With Assalayana
+﻿/*title*/Assalayana Sutta: With Assalayana
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2010

@@ -1,8 +1,11 @@
 /*title*/The Gathas
 Hymns of Zarathushtra
+
 Translated by L. H. Mills 
 (from Sacred Books of the East, American Edition, 1898) except as noted.
 [Translation by C. Bartholomae, from I.J.S. Taraporewala, The Divine Songs of Zarathushtra.
+
+
 
 /*chapter*/Ahunavaiti Gatha
 ================
@@ -330,6 +333,7 @@ your good doctrine, Ahura, that of the wisdom which exalts communities through R
 15.	O Mazda, make known to me he best teachings and actions, these O Good Thought and O 
 Right the due of praise. Through your Dominion, O Ahura, assure us that mankind shall be 
 capable according to (Thy) will.
+
 
 /*chapter*/Ushtavaiti Gatha
 ================

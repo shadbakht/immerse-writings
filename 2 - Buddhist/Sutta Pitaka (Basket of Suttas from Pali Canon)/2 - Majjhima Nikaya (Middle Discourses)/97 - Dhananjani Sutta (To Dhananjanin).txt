@@ -1,4 +1,4 @@
-﻿Dhanañjani Sutta: To Dhanañjanin
+﻿/*title*/Dhanañjani Sutta: To Dhanañjanin
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2008

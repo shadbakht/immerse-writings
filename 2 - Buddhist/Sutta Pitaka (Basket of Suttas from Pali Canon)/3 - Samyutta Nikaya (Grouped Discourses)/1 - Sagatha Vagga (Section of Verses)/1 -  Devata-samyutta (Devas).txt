@@ -1,4 +1,4 @@
-﻿Devata-samyutta (Devas)
+﻿/*title*/Devata-samyutta (Devas)
 1.1 Ogha-tarana Sutta: Crossing over the Flood
 translated from the Pali by
 Thanissaro Bhikkhu

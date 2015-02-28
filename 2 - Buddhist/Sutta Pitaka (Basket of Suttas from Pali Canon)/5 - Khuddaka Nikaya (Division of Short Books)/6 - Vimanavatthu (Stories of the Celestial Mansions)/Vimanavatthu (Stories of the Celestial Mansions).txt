@@ -1,4 +1,4 @@
-﻿Vimanavatthu (Stories of the Celestial Mansions)
+﻿/*title*/Vimanavatthu (Stories of the Celestial Mansions)
 1.16 Sirima: Sirima's Mansion
 translated from the Pali by
 John D. Ireland

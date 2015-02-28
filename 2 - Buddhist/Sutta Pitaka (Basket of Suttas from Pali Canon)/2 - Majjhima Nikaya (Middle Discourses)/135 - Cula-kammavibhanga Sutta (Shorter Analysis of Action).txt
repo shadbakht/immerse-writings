@@ -1,4 +1,4 @@
-﻿Cula-kammavibhanga Sutta: The Shorter Analysis of Action
+﻿/*title*/Cula-kammavibhanga Sutta: The Shorter Analysis of Action
 translated from the Pali by
 Thanissaro Bhikkhu
 © 1995

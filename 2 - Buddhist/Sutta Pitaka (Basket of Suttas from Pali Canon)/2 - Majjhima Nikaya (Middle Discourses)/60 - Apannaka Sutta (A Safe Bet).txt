@@ -1,4 +1,4 @@
-﻿Apannaka Sutta: A Safe Bet
+﻿/*title*/Apannaka Sutta: A Safe Bet
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2008

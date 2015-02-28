@@ -1,4 +1,4 @@
-﻿Cula Saropama Sutta: The Shorter Heartwood-simile Discourse
+﻿/*title*/Cula Saropama Sutta: The Shorter Heartwood-simile Discourse
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2012

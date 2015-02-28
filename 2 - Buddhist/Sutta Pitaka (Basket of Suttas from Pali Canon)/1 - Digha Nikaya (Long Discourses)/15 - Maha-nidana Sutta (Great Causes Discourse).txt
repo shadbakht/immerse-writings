@@ -1,4 +1,4 @@
-﻿Maha-nidana Sutta: The Great Causes Discourse
+﻿/*title*/Maha-nidana Sutta: The Great Causes Discourse
 translated from the Pali by
 Thanissaro Bhikkhu
 © 1997

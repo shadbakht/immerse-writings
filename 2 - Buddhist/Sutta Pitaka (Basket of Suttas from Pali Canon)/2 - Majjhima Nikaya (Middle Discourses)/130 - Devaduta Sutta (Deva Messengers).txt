@@ -1,4 +1,4 @@
-﻿Devaduta Sutta: The Deva Messengers
+﻿/*title*/Devaduta Sutta: The Deva Messengers
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2012

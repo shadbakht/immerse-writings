@@ -1,4 +1,4 @@
-﻿8 - Vangisa-samyutta (Ven. Vangisa)
+﻿/*title*/8 - Vangisa-samyutta (Ven. Vangisa)
 8.4 Ananda Sutta: Ananda
 (Instructions to Vangisa)
 translated from the Pali by
@@ -39,5 +39,4 @@ Cast out conceit.
 Then, from breaking through
 		conceit,
 	you will go on your way
-
 				at peace.

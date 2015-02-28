@@ -1,4 +1,4 @@
-﻿Dantabhumi Sutta: The Discourse on the 'Tamed Stage'
+﻿/*title*/Dantabhumi Sutta: The Discourse on the 'Tamed Stage'
 translated from the Pali by
 I.B. Horner
 © 1998

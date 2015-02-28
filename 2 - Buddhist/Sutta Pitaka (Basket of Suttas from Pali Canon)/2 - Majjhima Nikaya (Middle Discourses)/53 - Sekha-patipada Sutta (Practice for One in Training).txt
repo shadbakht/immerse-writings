@@ -1,4 +1,4 @@
-﻿Sekha-patipada Sutta: The Practice for One in Training
+﻿/*title*/Sekha-patipada Sutta: The Practice for One in Training
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2003

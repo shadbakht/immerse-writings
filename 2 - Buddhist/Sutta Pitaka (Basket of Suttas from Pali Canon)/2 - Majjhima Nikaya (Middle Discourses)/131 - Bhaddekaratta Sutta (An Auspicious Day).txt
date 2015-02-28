@@ -1,4 +1,4 @@
-﻿Bhaddekaratta Sutta: An Auspicious Day
+﻿/*title*/Bhaddekaratta Sutta: An Auspicious Day
 translated from the Pali by
 Thanissaro Bhikkhu
 © 1997

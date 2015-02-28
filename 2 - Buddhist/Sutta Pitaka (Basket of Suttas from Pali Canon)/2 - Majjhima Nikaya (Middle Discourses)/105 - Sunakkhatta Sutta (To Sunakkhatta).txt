@@ -1,4 +1,4 @@
-﻿Sunakkhatta Sutta: To Sunakkhatta
+﻿/*title*/Sunakkhatta Sutta: To Sunakkhatta
 translated from the Pali by
 Thanissaro Bhikkhu
 © 1998

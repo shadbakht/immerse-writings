@@ -1,4 +1,4 @@
-﻿Ganakamoggallana Sutta: The Discourse to Ganaka-Moggallana
+﻿/*title*/Ganakamoggallana Sutta: The Discourse to Ganaka-Moggallana
 translated from the Pali by
 I.B. Horner
 © 1994

@@ -1,4 +1,4 @@
-﻿Anathapindikovada Sutta: Instructions to Anathapindika
+﻿/*title*/Anathapindikovada Sutta: Instructions to Anathapindika
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2003

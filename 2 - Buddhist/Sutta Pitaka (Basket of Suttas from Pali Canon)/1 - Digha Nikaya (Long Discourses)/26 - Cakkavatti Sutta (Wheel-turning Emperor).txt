@@ -1,4 +1,4 @@
-﻿Cakkavatti Sutta: The Wheel-turning Emperor
+﻿/*title*/Cakkavatti Sutta: The Wheel-turning Emperor
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2002

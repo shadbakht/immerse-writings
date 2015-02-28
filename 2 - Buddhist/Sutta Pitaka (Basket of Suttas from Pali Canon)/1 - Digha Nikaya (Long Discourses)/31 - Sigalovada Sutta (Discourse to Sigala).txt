@@ -1,4 +1,4 @@
-﻿Sigalovada Sutta: The Discourse to Sigala
+﻿/*title*/Sigalovada Sutta: The Discourse to Sigala
 The Layperson's Code of Discipline
 translated from the Pali by
 Narada Thera

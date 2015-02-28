@@ -1,4 +1,4 @@
-﻿3 - Kosala-samyutta (King Pasenadi of Kosala)
+﻿/*title*/3 - Kosala-samyutta (King Pasenadi of Kosala)
 3.1 Dahara Sutta: Young
 translated from the Pali by
 Thanissaro Bhikkhu

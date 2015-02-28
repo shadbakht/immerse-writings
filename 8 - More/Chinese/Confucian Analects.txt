@@ -3,7 +3,7 @@ Confucius 500 BC
 
 translated by James Legge [1893]
 
-/*chapter*/1
+/*chapter*/Chapter 1
 
   The Master "Is it not pleasant to learn with a constant perseverance
 and application?
@@ -91,7 +91,7 @@ odes. I told him one point, and he knew its proper sequence."
   The Master said, "I will not be afflicted at men's not knowing me; I
 will be afflicted that I do not know men."
 
-/*chapter*/2
+/*chapter*/Chapter 2
 
   The Master said, "He who exercises government by means of his virtue
 may be compared to the north polar star, which keeps its place and all
@@ -199,7 +199,7 @@ known."
 not belong to him is flattery.
   "To see what is right and not to do it is want of courage."
 
-/*chapter*/3
+/*chapter*/Chapter 3
 
   Confucius said of the head of the Chi family, who had eight rows
 of pantomimes in his area, "If he can bear to do this, what may he not
@@ -318,7 +318,7 @@ but not perfectly good.
 generosity; ceremonies performed without reverence; mourning conducted
 without sorrow;-wherewith should I contemplate such ways?"
 
-/*chapter*/4
+/*chapter*/Chapter 4
 
   The Master said, "It is virtuous manners which constitute the
 excellence of a neighborhood. If a man in selecting a residence do not
@@ -405,7 +405,7 @@ practices it will have neighbors."
 disgrace. Between friends, frequent reproofs make the friendship
 distant."
 
-/*chapter*/5
+/*chapter*/Chapter 5
 
   The Master said of Kung-ye Ch'ang that he might be wived; although
 he was put in bonds, he had not been guilty of any crime. Accordingly,
@@ -541,7 +541,7 @@ could perceive his faults, and inwardly accuse himself."
   The Master said, "In a hamlet of ten families, there may be found
 one honorable and sincere as I am, but not so fond of learning."
 
-/*chapter*/6
+/*chapter*/Chapter 6
 
   The Master said, "There is Yung!-He might occupy the place of a
 prince."
@@ -672,7 +672,7 @@ seeks also to enlarge others.
   "To be able to judge of others by what is nigh in ourselves;-this
 may be called the art of virtue."
 
-/*chapter*/7
+/*chapter*/Chapter 7
 
   The Master said, "A transmitter and not a maker, believing in and
 loving the ancients, I venture to compare myself with our old P'ang."
@@ -815,7 +815,7 @@ mean man is always full of distress."
   The Master was mild, and yet dignified; majestic, and yet not
 fierce; respectful, and yet easy.
 
-/*chapter*/8
+/*chapter*/Chapter 8
 
   The Master said, "T'ai-po may be said to have reached the highest
 point of virtuous action. Thrice he declined the kingdom, and the
@@ -919,7 +919,7 @@ the utmost elegance in his sacrificial cap and apron. He lived in a
 low, mean house, but expended all his strength on the ditches and
 water channels. I can find nothing like a flaw in Yu."
 
-/*chapter*/9
+/*chapter*/Chapter 9
 
   The subjects of which the Master seldom spoke were-profitableness,
 and also the appointments of Heaven, and perfect virtue.
@@ -1056,7 +1056,7 @@ think of you? But your house is distant."
   The Master said, "It is the want of thought about it. How is it
 distant?"
 
-/*chapter*/10
+/*chapter*/Chapter 10
 
   Confucius, in his village, looked simple and sincere, and as if he
 were not able to speak.
@@ -1198,7 +1198,7 @@ and by settles.
 its season! At its season!" Tsze-lu made a motion to it. Thrice it
 smelt him and then rose.
 
-/*chapter*/11
+/*chapter*/Chapter 11
 
   The Master said, "The men of former times in the matters of
 ceremonies and music were rustics, it is said, while the men of
@@ -1367,7 +1367,7 @@ have to do with ancestral temples, and with audiences but the
 sovereign? If Ch'ih were to be a small assistant in these services,
 who could be a great one?
 
-/*chapter*/12
+/*chapter*/Chapter 12
 
   Yen Yuan asked about perfect virtue. The Master said, "To subdue
 one's self and return to propriety, is perfect virtue. If a man can
@@ -1535,7 +1535,7 @@ impracticable, stop. Do not disgrace yourself."
   The philosopher Tsang said, "The superior man on grounds of
 culture meets with his friends, and by friendship helps his virtue."
 
-/*chapter*/13
+/*chapter*/Chapter 13
 
   Tsze-lu asked about government. The Master said, "Go before the
 people with your example, and be laborious in their affairs."
@@ -1708,7 +1708,7 @@ they may then likewise be employed in war."
   The Master said, "To lead an uninstructed people to war, is to throw
 them away."
 
-/*chapter*/14
+/*chapter*/Chapter 14
 
   Hsien asked what was shameful. The Master said, "When good
 government prevails in a state, to be thinking only of salary; and,
@@ -1931,7 +1931,7 @@ a full-grown man; I observe that he walks shoulder to shoulder with
 his elders. He is not one who is seeking to make progress in learning.
 He wishes quickly to become a man."
 
-/*chapter*/15
+/*chapter*/Chapter 15
 
   The Duke Ling of Wei asked Confucius about tactics. Confucius
 replied, "I have heard all about sacrificial vessels, but I have not
@@ -2090,7 +2090,7 @@ here; so and so is here."
   The Master said, "Yes. This is certainly the rule for those who lead
 the blind."
 
-/*chapter*/16
+/*chapter*/Chapter 16
 
   The head of the Chi family was going to attack Chwan-yu.
   Zan Yu and Chi-lu had an interview with Confucius, and said, "Our
@@ -2243,7 +2243,7 @@ herself Hsiao T'ung. The people of the state call her Chun Fu Zan,
 and, to the people of other states, they call her K'wa Hsiao Chun. The
 people of other states also call her Chun Fu Zan.
 
-/*chapter*/17
+/*chapter*/Chapter 17
 
   Yang Ho wished to see Confucius, but Confucius would not go to see
 him. On this, he sent a present of a pig to Confucius, who, having
@@ -2417,7 +2417,7 @@ discontented."
   The Master said, "When a man at forty is the object of dislike, he
 will always continue what he is."
 
-/*chapter*/18
+/*chapter*/Chapter 18
 
   The Viscount of Wei withdrew from the court. The Viscount of Chi
 became a slave to Chau. Pi-kan remonstrated with him and died.
@@ -2519,7 +2519,7 @@ employment."
   To Chau belonged the eight officers, Po-ta, Po-kwo, Chung-tu,
 Chung-hwu, Shu-ya, Shuhsia, Chi-sui, and Chi-kwa.
 
-/*chapter*/19
+/*chapter*/Chapter 19
 
   Tsze-chang said, "The scholar, trained for public duty, seeing
 threatening danger, is prepared to sacrifice his life. When the
@@ -2655,7 +2655,7 @@ them, and forthwith they would be harmonious. While he lived, he would
 be glorious. When he died, he would be bitterly lamented. How is it
 possible for him to be attained to?"
 
-/*chapter*/20
+/*chapter*/Chapter 20
 
   Yao said, "Oh! you, Shun, the Heaven-determined order of
 succession now rests in your person. Sincerely hold fast the due Mean.

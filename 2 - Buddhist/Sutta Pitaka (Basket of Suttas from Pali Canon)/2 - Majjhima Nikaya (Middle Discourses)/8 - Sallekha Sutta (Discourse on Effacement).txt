@@ -1,4 +1,4 @@
-﻿Sallekha Sutta: The Discourse on Effacement
+﻿/*title*/Sallekha Sutta: The Discourse on Effacement
 translated from the Pali by
 Nyanaponika Thera
 © 1998

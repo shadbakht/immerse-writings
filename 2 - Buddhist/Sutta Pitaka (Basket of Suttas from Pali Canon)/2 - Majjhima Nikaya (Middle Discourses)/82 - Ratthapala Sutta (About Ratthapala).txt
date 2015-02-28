@@ -1,4 +1,4 @@
-﻿Ratthapala Sutta: About Ratthapala
+﻿/*title*/Ratthapala Sutta: About Ratthapala
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2006

@@ -1,4 +1,4 @@
-﻿Maha-Saccaka Sutta: The Longer Discourse to Saccaka
+﻿/*title*/Maha-Saccaka Sutta: The Longer Discourse to Saccaka
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2008

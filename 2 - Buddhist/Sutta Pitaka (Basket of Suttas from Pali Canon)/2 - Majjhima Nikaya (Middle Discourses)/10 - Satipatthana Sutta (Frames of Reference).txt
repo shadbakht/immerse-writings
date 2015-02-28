@@ -1,4 +1,4 @@
-﻿Satipatthana Sutta: Frames of Reference
+﻿/*title*/Satipatthana Sutta: Frames of Reference
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2008

@@ -1,4 +1,4 @@
-﻿Cula-hatthipadopama Sutta: The Shorter Elephant Footprint Simile
+﻿/*title*/Cula-hatthipadopama Sutta: The Shorter Elephant Footprint Simile
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2005

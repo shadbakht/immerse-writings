@@ -1,4 +1,4 @@
-﻿Atanatiya Sutta: Discourse on Atanatiya
+﻿/*title*/Atanatiya Sutta: Discourse on Atanatiya
 translated from the Pali by
 Piyadassi Thera
 © 1999

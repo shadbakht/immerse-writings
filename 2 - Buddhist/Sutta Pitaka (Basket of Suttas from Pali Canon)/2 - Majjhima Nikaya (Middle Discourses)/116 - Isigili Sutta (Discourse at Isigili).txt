@@ -1,4 +1,4 @@
-﻿Isigili Sutta: The Discourse at Isigili
+﻿/*title*/Isigili Sutta: The Discourse at Isigili
 translated from the Pali by
 Piyadassi Thera
 © 1999

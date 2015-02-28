@@ -1,4 +1,4 @@
-﻿Cula-dhammasamadana Sutta: The Shorter Discourse on Taking on Practices
+﻿/*title*/Cula-dhammasamadana Sutta: The Shorter Discourse on Taking on Practices
 translated from the Pali by
 Thanissaro Bhikkhu
 © 1999

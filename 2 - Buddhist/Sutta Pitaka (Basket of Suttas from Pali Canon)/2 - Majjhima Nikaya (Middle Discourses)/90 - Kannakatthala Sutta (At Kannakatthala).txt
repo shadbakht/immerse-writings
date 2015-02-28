@@ -1,4 +1,4 @@
-﻿Kannakatthala Sutta: At Kannakatthala
+﻿/*title*/Kannakatthala Sutta: At Kannakatthala
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2003

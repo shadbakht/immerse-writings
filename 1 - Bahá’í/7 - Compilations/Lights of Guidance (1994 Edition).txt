@@ -1,4 +1,4 @@
-﻿/*title*/Lights of Guidance
+﻿/*title*/Lights of Guidance (1994)
 LIGHTS OF GUIDANCE A Bahá'í Reference File
 Compiled by Helen Hornby
 
@@ -7,7 +7,8 @@ First Edition, 1983
 Second revised and enlarged edition, 1988 
 Third Revised Edition 1994
 
-Table of Contents:
+
+/*chapter*/Table of Contents:
 I. ADMINISTRATIVE ORDER
 A. Administrative Order
 1. Established First in America--Not American Production
@@ -2358,6 +2359,7 @@ LIII. YOUTH
 2163. Regarding a National Committee to Supervise the Work of the Youth
 
 
+/*chapter*/The Lights of Guidance
 I. ADMINISTRATIVE ORDER
 
 A. Administrative Order
@@ -23958,12 +23960,6 @@ and mutual compromise. The old believers have to give up something of their old 
 
 "At the same time if we say that no older person should take part in the organization of the youth it will be depriving them of the necessary experience needed to have a permanent and working institution.
 
-"Shoghi Effendi believes that the best solution is to have some reasonable age limit
-
-
-Page 641
-
-
-for the actual membership of the body of the organization so that only the young people may take part in the different activities and have no older person usurp the floor or deprive them from their chances to train themselves, and express their ideas. At the same time the National Assembly could appoint on the National committee that is to supervise their work some older and experienced persons who could co-operate with them and guide them in their activities. The National committee should be composed of both people within the age limit and also older people."
+"Shoghi Effendi believes that the best solution is to have some reasonable age limit for the actual membership of the body of the organization so that only the young people may take part in the different activities and have no older person usurp the floor or deprive them from their chances to train themselves, and express their ideas. At the same time the National Assembly could appoint on the National committee that is to supervise their work some older and experienced persons who could co-operate with them and guide them in their activities. The National committee should be composed of both people within the age limit and also older people."
 
 (From a letter written on behalf of Shoghi Effendi to the National Spiritual Assembly of the United States and Canada, October 27, 1932)

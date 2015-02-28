@@ -1,4 +1,4 @@
-﻿Magandiya Sutta: To Magandiya (excerpt)
+﻿/*title*/Magandiya Sutta: To Magandiya (excerpt)
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2008

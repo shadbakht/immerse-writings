@@ -1,4 +1,4 @@
-﻿Saccavibhanga Sutta: An Analysis of the Truths
+﻿/*title*/Saccavibhanga Sutta: An Analysis of the Truths
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2005

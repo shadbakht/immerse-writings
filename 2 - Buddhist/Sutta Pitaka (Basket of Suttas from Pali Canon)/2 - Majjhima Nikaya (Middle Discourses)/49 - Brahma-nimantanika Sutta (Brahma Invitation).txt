@@ -1,4 +1,4 @@
-﻿Brahma-nimantanika Sutta: The Brahma Invitation
+﻿/*title*/Brahma-nimantanika Sutta: The Brahma Invitation
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2007

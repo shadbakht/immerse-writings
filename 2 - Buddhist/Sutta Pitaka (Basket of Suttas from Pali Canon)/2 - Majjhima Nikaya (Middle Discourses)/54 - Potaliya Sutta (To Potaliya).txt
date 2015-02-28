@@ -1,4 +1,4 @@
-﻿Potaliya Sutta: To Potaliya (excerpt)
+﻿/*title*/Potaliya Sutta: To Potaliya (excerpt)
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2003

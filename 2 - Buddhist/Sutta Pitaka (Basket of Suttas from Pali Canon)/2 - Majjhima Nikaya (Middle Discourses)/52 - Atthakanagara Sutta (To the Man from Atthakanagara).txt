@@ -1,4 +1,4 @@
-﻿Atthakanagara Sutta: To the Man from Atthakanagara
+﻿/*title*/Atthakanagara Sutta: To the Man from Atthakanagara
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2004

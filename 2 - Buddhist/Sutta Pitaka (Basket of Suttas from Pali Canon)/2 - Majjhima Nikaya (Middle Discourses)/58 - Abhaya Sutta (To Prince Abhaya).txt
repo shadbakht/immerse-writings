@@ -1,4 +1,4 @@
-﻿Abhaya Sutta: To Prince Abhaya (On Right Speech)
+﻿/*title*/Abhaya Sutta: To Prince Abhaya (On Right Speech)
 translated from the Pali by
 Thanissaro Bhikkhu
 © 1997

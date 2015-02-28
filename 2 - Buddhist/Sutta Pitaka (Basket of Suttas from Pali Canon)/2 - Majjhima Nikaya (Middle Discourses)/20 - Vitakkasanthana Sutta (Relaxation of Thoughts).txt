@@ -1,4 +1,4 @@
-﻿Vitakkasanthana Sutta: The Relaxation of Thoughts
+﻿/*title*/Vitakkasanthana Sutta: The Relaxation of Thoughts
 translated from the Pali by
 Thanissaro Bhikkhu
 © 1997

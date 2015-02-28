@@ -1,4 +1,4 @@
-﻿Gopaka Moggallana Sutta: Moggallana the Guardsman
+﻿/*title*/Gopaka Moggallana Sutta: Moggallana the Guardsman
 translated from the Pali by
 Thanissaro Bhikkhu
 © 1998

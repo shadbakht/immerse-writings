@@ -1,4 +1,4 @@
-﻿Cula-Saccaka Sutta: The Shorter Discourse to Saccaka
+﻿/*title*/Cula-Saccaka Sutta: The Shorter Discourse to Saccaka
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2012

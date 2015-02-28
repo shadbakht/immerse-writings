@@ -1,4 +1,4 @@
-﻿Ariyapariyesana Sutta: The Noble Search
+﻿/*title*/Ariyapariyesana Sutta: The Noble Search
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2004

@@ -1,4 +1,4 @@
-﻿Anupada Sutta: One After Another
+﻿/*title*/Anupada Sutta: One After Another
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2007

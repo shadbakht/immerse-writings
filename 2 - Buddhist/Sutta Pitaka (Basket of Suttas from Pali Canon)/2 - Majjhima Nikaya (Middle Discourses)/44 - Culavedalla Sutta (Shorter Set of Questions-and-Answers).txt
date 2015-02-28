@@ -1,4 +1,4 @@
-﻿Culavedalla Sutta: The Shorter Set of Questions-and-Answers
+﻿/*title*/Culavedalla Sutta: The Shorter Set of Questions-and-Answers
 translated from the Pali by
 Thanissaro Bhikkhu
 © 1998

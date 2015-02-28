@@ -1,4 +1,4 @@
-﻿Sammaditthi Sutta: Right View
+﻿/*title*/Sammaditthi Sutta: Right View
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2008

@@ -1,4 +1,4 @@
-﻿Cula-sihanada Sutta: The Shorter Discourse on the Lion's Roar
+﻿/*title*/Cula-sihanada Sutta: The Shorter Discourse on the Lion's Roar
 translated from the Pali by
 Ñanamoli Thera & Bhikkhu Bodhi
 © 1994

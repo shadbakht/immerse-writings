@@ -1,4 +1,4 @@
-﻿Cula-Rahulovada Sutta: The Shorter Exposition to Rahula
+﻿/*title*/Cula-Rahulovada Sutta: The Shorter Exposition to Rahula
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2006

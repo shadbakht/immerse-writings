@@ -1,4 +1,4 @@
-﻿Lohicca Sutta: To Lohicca
+﻿/*title*/Lohicca Sutta: To Lohicca
 translated from the Pali by
 Thanissaro Bhikkhu
 © 1998

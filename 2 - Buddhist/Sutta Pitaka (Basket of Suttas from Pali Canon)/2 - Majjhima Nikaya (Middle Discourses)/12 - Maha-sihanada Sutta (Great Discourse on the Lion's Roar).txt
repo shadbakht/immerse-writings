@@ -1,4 +1,4 @@
-﻿Maha-sihanada Sutta: The Great Discourse on the Lion's Roar
+﻿/*title*/Maha-sihanada Sutta: The Great Discourse on the Lion's Roar
 translated from the Pali by
 Ñanamoli Thera & Bhikkhu Bodhi
 © 1994

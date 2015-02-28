@@ -1,4 +1,4 @@
-﻿Latukikopama Sutta: The Quail Simile
+﻿/*title*/Latukikopama Sutta: The Quail Simile
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2003

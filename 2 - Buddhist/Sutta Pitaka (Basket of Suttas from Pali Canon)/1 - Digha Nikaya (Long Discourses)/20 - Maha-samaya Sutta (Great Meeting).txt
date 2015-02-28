@@ -1,4 +1,4 @@
-﻿Maha-samaya Sutta: The Great Meeting
+﻿/*title*/Maha-samaya Sutta: The Great Meeting
 translated from the Pali by
 Thanissaro Bhikkhu
 © 1997

@@ -1,4 +1,4 @@
-﻿Nandakovada Sutta: Nandaka's Exhortation
+﻿/*title*/Nandakovada Sutta: Nandaka's Exhortation
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2002

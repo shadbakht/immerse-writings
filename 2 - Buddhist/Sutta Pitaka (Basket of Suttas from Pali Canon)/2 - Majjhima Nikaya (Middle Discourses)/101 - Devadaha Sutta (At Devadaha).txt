@@ -1,4 +1,4 @@
-﻿Devadaha Sutta: At Devadaha
+﻿/*title*/Devadaha Sutta: At Devadaha
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2005

@@ -1,4 +1,4 @@
-﻿Vatthupama Sutta: The Simile of the Cloth
+﻿/*title*/Vatthupama Sutta: The Simile of the Cloth
 translated from the Pali by
 Nyanaponika Thera
 © 1998

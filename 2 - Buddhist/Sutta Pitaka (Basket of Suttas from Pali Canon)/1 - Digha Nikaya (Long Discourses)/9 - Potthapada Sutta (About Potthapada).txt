@@ -1,4 +1,4 @@
-﻿Potthapada Sutta: About Potthapada
+﻿/*title*/Potthapada Sutta: About Potthapada
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2003

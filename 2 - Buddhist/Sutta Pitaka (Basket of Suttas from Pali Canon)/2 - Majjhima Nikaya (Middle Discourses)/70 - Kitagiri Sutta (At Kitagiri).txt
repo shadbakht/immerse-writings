@@ -1,4 +1,4 @@
-﻿Kitagiri Sutta: At Kitagiri
+﻿/*title*/Kitagiri Sutta: At Kitagiri
 translated from the Pali by
 Thanissaro Bhikkhu
 © 2005
