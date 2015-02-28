@@ -1,4 +1,5 @@
 ﻿/*title*/The Dawn-Breakers
+by Nabíl-i-A‘zam
 Nabíl’s Narrative of the Early Days of the Bahá’í Revelation
 Translated from the original Persian and edited by Shoghi Effendi
 
@@ -25,12 +26,12 @@ Great Debt of Gratitude and Love
 [List of Illustrations omitted]
 
 
-/*chapter*/FACSIMILE OF THE BÁB’S AUTOGRAPH
+FACSIMILE OF THE BÁB’S AUTOGRAPH
 
-/*chapter*/TABLETS ADDRESSED TO THE LETTERS OF THE LIVING AND TO BAHÁ’U’LLÁH
+TABLETS ADDRESSED TO THE LETTERS OF THE LIVING AND TO BAHÁ’U’LLÁH
 [NOTE: The next 20 leaves of the book which contain the facsimiles are unnumbered pages.] 
 
-FACSIMILE OF THE BÁB’S TABLETS WRITTEN TO THE NINETEEN LETTERS OF THE LIVING AND TO BAHÁ’U’LLÁH
+/*chapter*/FACSIMILE OF THE BÁB’S TABLETS WRITTEN TO THE NINETEEN LETTERS OF THE LIVING AND TO BAHÁ’U’LLÁH
 
 First Letter of the Living: Mullá Ḥusayn-i-Bushrú’í 
 Second Letter of the Living: Muḥammad Ḥasan (His Brother) 
