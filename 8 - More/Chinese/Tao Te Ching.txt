@@ -1,8 +1,6 @@
-/*title*/The Tao Te Ching 
+﻿/*title*/The Tao Te Ching 
 by Lao Tzu
 
-The Way and its Power: A Study of the Tao Te Ching and its Place in Chinese Thought , 1934
-http://afpc.asso.fr/wengu/wg/wengu.php?l=Daodejing
 Translation by Arthur Waley
 (1934) 
 

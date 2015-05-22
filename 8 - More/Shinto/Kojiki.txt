@@ -1,8 +1,7 @@
 ﻿/*title*/The Kojiki
-translated by Basil Hall Chamberlain
 
+Translated by Basil Hall Chamberlain
 [1919]
-
 
 
 /*chapter*/Volume I

@@ -1,7 +1,7 @@
 ﻿/*title*/Confucian Analects
-Confucius 500 BC
 
-translated by James Legge [1893]
+translated by James Legge 
+[1893]
 
 /*chapter*/Chapter 1
 
