@@ -1,4 +1,6 @@
-﻿One Common Faith
+﻿/*title*/同一个信仰
+
+One Common Faith
 同一个信仰
 
 巴哈伊世界中心
@@ -139,131 +141,89 @@
 
 
 
+/*chapter*/Footnotes
 资料来源注释
 
-［1］.    巴哈欧拉在此指的是古代波斯人与阿拉伯人关马杰农与蕾莉的故事，见《七谷经》（澳门：新纪元国际出版社，2006），第7页。
-［2］.     Gleanings from the Writings of  Bahá'u'lláh（威尔梅特：巴哈伊信托出版社，1983），英文版第61节。
-［3］.    同上，第16节。
-［4］.    Tablets of Bahá'u'lláh revealed after the Kitáb-i-Aqdas（威尔梅特：巴哈伊信托出版社，1988），英文版第27页。
-［5］.    Gleanings from the Writings of Bahá'u'lláh，英文版第17节。
-［6］.    Epistle to the Son of the Wolf（威尔梅特：巴哈伊信托出版社，1988），英文版第133页。
-［7］.   《笃信经》（澳门：新纪元国际出版社，   2011）， 第216段。
-［8］.   同上，第216段。
-［9］.   同上，第104段。
-［10］. 同上，第106段。
-［11］.  Gleanings from the Writings of Bahá'u'lláh，英文版第22节。
-［12］.  Prayers and Meditations by Bahá'u'lláh（威尔梅特：巴哈伊信托出版社，1987），英文版第311页。
-［13］.  Gleanings from the Writings of Bahá'u'lláh，英文版第27节。
-［14］.  同上，第109节。
-［15］.  同上，第81节。
-［16］.  利安·赫胥黎，Knowledge, Morality, and Destiny（纽约：哈珀兄弟出版社，1957），英文版第13页。
-［17］.  守基·阿芬第，The World Order of Bahá'u'lláh: Selected Letters（威尔梅特：巴哈伊信托出版社，1991），英文版第53页。
-［18］.  Gleanings from the Writings of Bahá'u'lláh，英文版第78节。
-［19］.  同上，英文版第132节。
-［20］.  巴哈欧拉，The Kitáb-i-Aqdas: The Most Holy Book（威尔梅特：巴哈伊信托出版社，1993），英文版第182段。
-［21］. 《笃信经》，第4段。
-［22］.  同上，第8段。
-［23］.  同上，第13段。
-［24］.  同上，第14段。
-［25］.  《圣经·马太福音》13：25。
-［26］.  同上，13：29-30。
-［27］.  《古兰经》7：33。
-［28］.  巴哈欧拉，The Kitáb-i-Aqdas: The Most Holy  Book，英文版第99段。
-［29］.  The Summons of the Lord of Hosts: Tablets of Bahá'u'lláh（海法：巴哈伊世界中心，2002），英文版第126段。
-［30］.  巴哈欧拉，引自守基·阿芬第The Advent of Divine Justice（威尔梅特：巴哈伊信托出版社，1990），英文版第79页。
-［31］.  《圣经·以赛亚书》45：5。
-［32］.  《圣经·提摩太前书》1：17。
-［33］.  《古兰经》3：73。
-［34］.  同上，2：177。
-［35］.  《圣经·马太福音》5：13。
-［36］.  同上，5：14。
-［37］.  《圣经·弥迦书》6：8。
-［38］.  《圣经·约翰福音》14：6。
-［39］.  《古兰经》24：35。
-［40］.  《圣经·创世纪》17：7。
-［41］.  《薄伽梵歌》第四章，黄宝生译（北京：商务印书馆，2010），第44页。
-［42］.  《圣经·申命记》34：10。
-［43］.  《圣经·约翰福音》5：45-47。
-［44］.  《古兰经》2：136。
-［45］.  阿博都-巴哈，The Promulgation of Universal Peace: Talks  Delivered by 'Abdu'l-Bahá during His Visit to the United States and Canada in 1912（威尔梅特：巴哈伊信托出版社，1982），英文修订版第326页。
-［46］.  《圣经·约翰福音》1：10。
-［47］.  Gleanings from the Writings of Bahá'u'lláh，英文版第106节。
-［48］.  亚伯拉·林肯，引自Inaugural Addresses of the Presidents of the United States（华盛顿特区：美国政府印刷局，1989）。
-［49］.  《古兰经》21：104。
-［50］.  巴哈欧拉，The Kitáb-i-Aqdas: The Most Holy Book，英文版第5段。
-［51］.  The Summons of the Lord of Hosts: Tablets of Bahá'u'lláh，第174段。
-［52］.  守基·阿芬第，The World Order of Bahá'u'lláh，英文版第204页。
-［53］.  巴哈欧拉，引自守基·阿芬第The World Order of Bahá'u'lláh，英文版第192页。
-［54］.  Gleanings from the Writings of Bahá'u'lláh，英文版第106节。
-［55］.  Tablets of Bahá'u'lláh，英文版第129页。
-［56］.  巴哈欧拉，引自守基·阿芬第The Advent of Divine Justice，英文版第202-203页。
-［57］.  同上，第84页。
-［58］.  Gleanings from the Writings of Bahá'u'lláh，英文版第132节。
-［59］.  阿博都-巴哈，The Secret of Divine Civilization（威尔梅特：巴哈伊信托出版社，1990），英文版第96页。
-［60］.  阿博都-巴哈，Selections from the Writings of 'Abdu'l-Bahá（海法：巴哈伊世界中心，1997），英文版第256页。
-［61］.  巴哈欧拉，选自一份此前未曾翻译的书简。
-［62］.  阿博都-巴哈，Will and Testament of 'Abdu'l-Bahá（威尔梅特：巴哈伊信托出版社，1944），英文版第25页。
-［63］.  《笃信经》，第213段。
-［64］.  Gleanings from the Writings of Bahá'u'lláh，英文版第7节。
-［65］.  The Summons of the Lord of Host: Tablets of Bahá'u'lláh，第126段。
-［66］.  《圣经·约翰福音》10：16。
-［67］.  《古兰经》39：69。
-［68］.  《圣经·马太福音》6：10。
-［69］.  《圣经·启示录》21：2。
-［70］.   同上，3：12。
-［71］.  《圣经·以赛亚书》2：2。
-［72］.   同上，3：15。
-［73］.  《古兰经》85：2。
-［74］.  《圣经·但以理书》12：9。
-［75］.  《圣经·以赛亚书》62：2。
-［76］.  《古兰经》21：104。
-［77］.  Gleanings from the Writings of Bahá'u'lláh，英文版第4节。
-［78］.  《圣经·路加福音》17：21。
-［79］.  《圣经·马太福音》21：33。
-［80］.  同上，13：23。
-［81］.  同上，7：17。
-［82］.  Gleanings from the Writings of Bahá'u'lláh，英文版第96节。
-［83］.  同上，第120节。
-
-
-
-（注：本书中凡引用《圣经》和《古兰经》的段落，其译文分别来自和合本和马坚译本。）
-
-
-
-
-
-
-
-同一个信仰
-译自巴哈伊世界中心2005年英文版One Common Faith
-
-
-
-
-
-
-
-
-作    者：巴哈伊世界中心
-译    者：万兆元  叶  静  周小英
-审    校：许天易  王洪霞 
-责任编辑：成  群
-封面设计：赵晋锋
-
-出        版：新纪元国际出版社
-地        址：中国澳门南湾大马路15号
-                    金辉大厦5楼F座
-电        话：（+853）28838349
-传        真：（+853）28838350
-电        邮：nmpmacau@macau.ctm.net
-                    nmpmacau@gmail.com
-网        址：www.newlightbook.com
-                    www.datongbooks.net
-版        次：2013年5月第1版第1次印刷
-
-ISBN 978-99965-46-14-3
-定        价：HKD22.00  RMB15.00
-
-版权所有·翻印必究
-
+［1］ 巴哈欧拉在此指的是古代波斯人与阿拉伯人关马杰农与蕾莉的故事，见《七谷经》（澳门：新纪元国际出版社，2006），第7页。
+［2］  Gleanings from the Writings of  Bahá'u'lláh（威尔梅特：巴哈伊信托出版社，1983），英文版第61节。
+［3］ 同上，第16节。
+［4］ Tablets of Bahá'u'lláh revealed after the Kitáb-i-Aqdas（威尔梅特：巴哈伊信托出版社，1988），英文版第27页。
+［5］ Gleanings from the Writings of Bahá'u'lláh，英文版第17节。
+［6］ Epistle to the Son of the Wolf（威尔梅特：巴哈伊信托出版社，1988），英文版第133页。
+［7］ 《笃信经》（澳门：新纪元国际出版社，   2011）， 第216段。
+［8］ 同上，第216段。
+［9］ 同上，第104段。
+［10］ 同上，第106段。
+［11］ Gleanings from the Writings of Bahá'u'lláh，英文版第22节。
+［12］ Prayers and Meditations by Bahá'u'lláh（威尔梅特：巴哈伊信托出版社，1987），英文版第311页。
+［13］ Gleanings from the Writings of Bahá'u'lláh，英文版第27节。
+［14］ 同上，第109节。
+［15］ 同上，第81节。
+［16］ 利安·赫胥黎，Knowledge, Morality, and Destiny（纽约：哈珀兄弟出版社，1957），英文版第13页。
+［17］ 守基·阿芬第，The World Order of Bahá'u'lláh: Selected Letters（威尔梅特：巴哈伊信托出版社，1991），英文版第53页。
+［18］ Gleanings from the Writings of Bahá'u'lláh，英文版第78节。
+［19］ 同上，英文版第132节。
+［20］ 巴哈欧拉，The Kitáb-i-Aqdas: The Most Holy Book（威尔梅特：巴哈伊信托出版社，1993），英文版第182段。
+［21］ 《笃信经》，第4段。
+［22］ 同上，第8段。
+［23］ 同上，第13段。
+［24］ 同上，第14段。
+［25］ 《圣经·马太福音》13：25。
+［26］ 同上，13：29-30。
+［27］ 《古兰经》7：33。
+［28］ 巴哈欧拉，The Kitáb-i-Aqdas: The Most Holy  Book，英文版第99段。
+［29］ The Summons of the Lord of Hosts: Tablets of Bahá'u'lláh（海法：巴哈伊世界中心，2002），英文版第126段。
+［30］ 巴哈欧拉，引自守基·阿芬第The Advent of Divine Justice（威尔梅特：巴哈伊信托出版社，1990），英文版第79页。
+［31］ 《圣经·以赛亚书》45：5。
+［32］ 《圣经·提摩太前书》1：17。
+［33］ 《古兰经》3：73。
+［34］ 同上，2：177。
+［35］ 《圣经·马太福音》5：13。
+［36］ 同上，5：14。
+［37］ 《圣经·弥迦书》6：8。
+［38］ 《圣经·约翰福音》14：6。
+［39］ 《古兰经》24：35。
+［40］ 《圣经·创世纪》17：7。
+［41］ 《薄伽梵歌》第四章，黄宝生译（北京：商务印书馆，2010），第44页。
+［42］ 《圣经·申命记》34：10。
+［43］ 《圣经·约翰福音》5：45-47。
+［44］ 《古兰经》2：136。
+［45］ 阿博都-巴哈，The Promulgation of Universal Peace: Talks  Delivered by 'Abdu'l-Bahá during His Visit to the United States and Canada in 1912（威尔梅特：巴哈伊信托出版社，1982），英文修订版第326页。
+［46］ 《圣经·约翰福音》1：10。
+［47］ Gleanings from the Writings of Bahá'u'lláh，英文版第106节。
+［48］ 亚伯拉·林肯，引自Inaugural Addresses of the Presidents of the United States（华盛顿特区：美国政府印刷局，1989）。
+［49］ 《古兰经》21：104。
+［50］ 巴哈欧拉，The Kitáb-i-Aqdas: The Most Holy Book，英文版第5段。
+［51］ The Summons of the Lord of Hosts: Tablets of Bahá'u'lláh，第174段。
+［52］ 守基·阿芬第，The World Order of Bahá'u'lláh，英文版第204页。
+［53］ 巴哈欧拉，引自守基·阿芬第The World Order of Bahá'u'lláh，英文版第192页。
+［54］ Gleanings from the Writings of Bahá'u'lláh，英文版第106节。
+［55］ Tablets of Bahá'u'lláh，英文版第129页。
+［56］ 巴哈欧拉，引自守基·阿芬第The Advent of Divine Justice，英文版第202-203页。
+［57］ 同上，第84页。
+［58］ Gleanings from the Writings of Bahá'u'lláh，英文版第132节。
+［59］ 阿博都-巴哈，The Secret of Divine Civilization（威尔梅特：巴哈伊信托出版社，1990），英文版第96页。
+［60］ 阿博都-巴哈，Selections from the Writings of 'Abdu'l-Bahá（海法：巴哈伊世界中心，1997），英文版第256页。
+［61］ 巴哈欧拉，选自一份此前未曾翻译的书简。
+［62］ 阿博都-巴哈，Will and Testament of 'Abdu'l-Bahá（威尔梅特：巴哈伊信托出版社，1944），英文版第25页。
+［63］ 《笃信经》，第213段。
+［64］ Gleanings from the Writings of Bahá'u'lláh，英文版第7节。
+［65］ The Summons of the Lord of Host: Tablets of Bahá'u'lláh，第126段。
+［66］ 《圣经·约翰福音》10：16。
+［67］ 《古兰经》39：69。
+［68］ 《圣经·马太福音》6：10。
+［69］ 《圣经·启示录》21：2。
+［70］ 同上，3：12。
+［71］ 《圣经·以赛亚书》2：2。
+［72］ 同上，3：15。
+［73］ 《古兰经》85：2。
+［74］ 《圣经·但以理书》12：9。
+［75］ 《圣经·以赛亚书》62：2。
+［76］ 《古兰经》21：104。
+［77］ Gleanings from the Writings of Bahá'u'lláh，英文版第4节。
+［78］ 《圣经·路加福音》17：21。
+［79］ 《圣经·马太福音》21：33。
+［80］ 同上，13：23。
+［81］ 同上，7：17。
+［82］ Gleanings from the Writings of Bahá'u'lláh，英文版第96节。
+［83］ 同上，第120节。
