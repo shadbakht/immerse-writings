@@ -1,4 +1,5 @@
 Abbreviation:	Book:
+
 Old Testament:
 Amos	Amos
 1 Chr	1 Chronicles
@@ -68,6 +69,7 @@ Rom	Romans
 1 Tim 	1 Timothy
 2 Tim	2 Timothy
 Titus	Titus
+
 
 Dewy Rheims:
 Bar 	Baruch
