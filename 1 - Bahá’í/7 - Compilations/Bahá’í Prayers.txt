@@ -2,7 +2,7 @@
 A Selection of Prayers Revealed by Bahá’u’lláh, the Báb, and ‘Abdu’l-Bahá
 
 
-/*chapter*/“Blessed is the spot, and the house...”
+“Blessed is the spot, and the house...”
 Blessed is the spot, and the house,
 and the place, and the city,
 and the heart, and the mountain,
@@ -14,7 +14,7 @@ of God hath been made,
 and His praise glorified. 
 —Bahá’u’lláh 
 
-/*chapter*/“Intone, O My servant, the verses of God...”
+“Intone, O My servant, the verses of God...”
 Intone, O My servant, the verses of God that have been received by thee,
 as intoned by them who have drawn nigh unto Him,
 that the sweetness of thy melody may kindle thine own soul,
@@ -30,7 +30,7 @@ Who is the Source of power and wisdom.
 —BAHÁ’U’LLÁH
 
 
-/*chapter*/OBLIGATORY PRAYERS
+//*chapter*//OBLIGATORY PRAYERS
 
 /*sub-chapter*/“The daily obligatory prayers are three in number....”
 “The daily obligatory prayers are three in number. ... The believer is entirely free to choose any one of these three prayers, but is under the obligation of reciting one of them, and in accordance with any specific directions with which they may be accompanied.” 
@@ -95,7 +95,7 @@ I testify, O my God, to that whereunto Thy chosen Ones have testified, and ackno
 —Bahá’u’lláh
 
 
-/*chapter*/GENERAL PRAYERS
+//*chapter*//GENERAL PRAYERS
 
 /*sub-chapter*/AID AND ASSISTANCE
 /*sub-sub-chapter*/“O Thou Whose face is the object of my adoration,...”
@@ -1198,7 +1198,7 @@ Verily, Thou art the Almighty, the Self-Subsistent, the Giver, the Forgiving, th
 
 
 
-/*chapter*/OCCASIONAL PRAYERS
+//*chapter*//OCCASIONAL PRAYERS
 
 /*sub-chapter*/TABLET OF AḤMAD
 “These daily obligatory prayers, together with a few other specific ones, such as the Healing Prayer, the Tablet of Aḥmad, have been invested by Bahá’u’lláh with a special potency and significance, and should therefore be accepted as such and be recited by the believers with unquestioning faith and confidence, that through them they may enter into a much closer communion with God, and identify themselves more fully with His laws and precepts.” 
