@@ -1,8 +1,6 @@
 ﻿/*title*/新旧约全书
 
-Holy Bible, 
-Chinese Union Version (GB), 
-Textfile 20010201.
+Holy Bible, Chinese Union Version (GB)
 
 Gen 1:1 起初神创造天地。
 Gen 1:2 地是空虚混沌。渊面黑暗。神的灵运行在水面上。
