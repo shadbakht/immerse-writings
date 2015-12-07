@@ -1,5 +1,5 @@
 ﻿/*title*/Bahá’u’lláh
-by Bahá’í International Community
+/*author*/The Bahá’í International Community
 Office of Public Information
 New York 
 

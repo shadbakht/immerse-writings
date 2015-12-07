@@ -1,4 +1,5 @@
 ﻿/*title*/Gleanings from the Writings of Bahá’u’lláh
+/*author*/Bahá’u’lláh
 Translated by Shoghi Effendi
 
 /*chapter*/I

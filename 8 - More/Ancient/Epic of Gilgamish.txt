@@ -1,11 +1,8 @@
 ﻿/*title*/The Epic of Gilgamish
 
 A new translation from a collation of the cuneiform tablets in the British Museum rendered literally into English hexameters
-
-BY
-R. CAMPBELL THOMPSON, M.A., D.Litt., F.S.A.,
+BY R. CAMPBELL THOMPSON, M.A., D.Litt., F.S.A.,
 [1928]
-
 
 
 /*chapter*/THE FIRST TABLET

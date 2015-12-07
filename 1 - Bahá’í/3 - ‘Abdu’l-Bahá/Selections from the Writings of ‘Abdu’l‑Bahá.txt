@@ -1,5 +1,5 @@
 ﻿/*title*/Selections from the Writings of ‘Abdu’l‑Bahá
-by ‘Abdu’l‑Bahá
+/*author*/‘Abdu’l-Bahá
 
 Compiled by the Research Department of the Universal House of Justice
 Translated by a Committee at the Bahá’í World Centre and by Marzieh Gail

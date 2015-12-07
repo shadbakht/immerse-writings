@@ -1,4 +1,5 @@
 ﻿/*title*/Arohanui
+/*author*/Shoghi Effendi
 Letters from Shoghi Effendi to New Zealand
 
 /*chapter*/Frontispiece

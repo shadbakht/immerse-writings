@@ -1,5 +1,6 @@
 ﻿/*title*/The Tabernacle of Unity
-by Bahá’u’lláh
+/*author*/Bahá’u’lláh
+
 •    •    •
 
 /*chapter*/Introduction

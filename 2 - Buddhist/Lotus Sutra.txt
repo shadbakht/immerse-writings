@@ -1,4 +1,5 @@
 ﻿/*title*/The Lotus Sutra 
+/*author*/The Buddha
 (Saddharma-Pundarika)
 Translated By H. Kern (1884)
 

@@ -1,5 +1,5 @@
 ﻿/*title*/1985 October 1
-by The Universal House of Justice
+/*author*/The Universal House of Justice
 
 October 1985
 

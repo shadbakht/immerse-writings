@@ -1,4 +1,5 @@
 ﻿/*title*/The Mahayana Mahaparinirvana Sutra
+/*author*/The Buddha
 Translated into English by Kosho Yamamoto
 
 [1973]

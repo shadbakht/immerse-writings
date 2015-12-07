@@ -1,5 +1,5 @@
 ﻿/*title*/The Tao Te Ching 
-by Lao Tzu
+/*author*/Lao Tzu
 
 Translation by Arthur Waley
 (1934) 

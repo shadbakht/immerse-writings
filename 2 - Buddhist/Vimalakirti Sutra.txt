@@ -1,6 +1,7 @@
 /*title*/Vimalakirti Nirdesa Sutra
-Translated by Robert A. F. Thurman
+/*author*/The Buddha
 
+Translated by Robert A. F. Thurman
 Copyright 1976, The Pennsylvania State University
 
 

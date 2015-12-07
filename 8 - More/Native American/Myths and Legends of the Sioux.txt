@@ -1,5 +1,6 @@
 /*title*/Myths and Legends of the Sioux
-by Marie L. McLaughlin (1916)
+/*author*/Marie L. McLaughlin
+(1916)
 
 In loving memory of my mother, MARY GRAHAM BUISSON, at whose knee most of the stories contained in this little volume were told to me, this book is affectionately dedicated
 

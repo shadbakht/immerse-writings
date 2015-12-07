@@ -1,4 +1,5 @@
 /*title*/The Gathas
+/*author*/Zoroaster
 Hymns of Zarathushtra
 
 Translated by L. H. Mills 

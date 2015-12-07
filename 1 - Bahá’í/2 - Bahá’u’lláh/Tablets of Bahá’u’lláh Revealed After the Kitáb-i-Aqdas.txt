@@ -1,5 +1,5 @@
 ﻿/*title*/Tablets of Bahá’u’lláh Revealed After the Kitáb-i-Aqdas
-by Bahá’u’lláh
+/*author*/Bahá’u’lláh
 
 A Collection of the Writings from Bahá’u’lláh
 Compiled by the Research Department of the Universal House of Justice and translated by Habib Taherzadeh with the assistance of a Committee at the Bahá’í World Centre

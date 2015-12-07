@@ -1,4 +1,5 @@
 ﻿/*title*/Confucian Analects
+/*author*/Confucious
 
 translated by James Legge 
 [1893]

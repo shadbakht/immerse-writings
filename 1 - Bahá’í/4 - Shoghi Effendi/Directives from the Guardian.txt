@@ -1,5 +1,5 @@
 ﻿/*title*/Directives from the Guardian
-by Shoghi Effendi
+/*author*/Shoghi Effendi
 
 Wilmette: Bahá'í Publishing Trust, 1973
 

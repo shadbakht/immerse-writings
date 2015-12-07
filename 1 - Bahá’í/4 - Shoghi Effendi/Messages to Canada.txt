@@ -1,5 +1,5 @@
 ﻿/*title*/Messages to Canada
-Shoghi Effendi
+/*author*/Shoghi Effendi
  
 
 /*chapter*/Foreword

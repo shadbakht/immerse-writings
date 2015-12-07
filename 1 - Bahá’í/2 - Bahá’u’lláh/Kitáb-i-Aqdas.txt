@@ -1,6 +1,7 @@
 ﻿/*title*/The Kitáb-i-Aqdas
+/*author*/Bahá’u’lláh
 The Most Holy Book
-Bahá’u’lláh
+
 
 /*chapter*/Preface
 

@@ -1,4 +1,5 @@
 ﻿/*title*/Tablets of 'Abdu'l-Baha Abbas
+/*author*/‘Abdu’l-Bahá
 
 /*chapter*/Volume I
 /*sub-chapter*/Frontispiece

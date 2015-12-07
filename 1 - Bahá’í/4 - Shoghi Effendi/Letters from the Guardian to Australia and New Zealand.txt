@@ -1,6 +1,5 @@
 ﻿/*title*/Letters from the Guardian to Australia and New Zealand
-by Shoghi Effendi
-
+/*author*/Shoghi Effendi
 
 
 /*chapter*/Letter of December 2, 1923

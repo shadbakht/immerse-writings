@@ -1,5 +1,5 @@
 ﻿/*title*/A Traveler’s Narrative
-by ‘Abdu’l‑Bahá
+/*author*/‘Abdu’l-Bahá
 
 Written to Illustrate the Episode of the Báb
 Translated by Edward G. Browne
