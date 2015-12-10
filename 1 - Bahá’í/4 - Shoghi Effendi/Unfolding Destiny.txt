@@ -5396,76 +5396,76 @@ Shoghi
 BIOGRAPHIES
 These biographies appear strictly in the order the names first appear in the text of the book. Where a fuller report is published elsewhere, a summary only is given together with a reference to the other material.
 
-NAME	PAGE
-9Dr. John E. Esslemont	
-9Edward T. Hall	
-9Mrs. Thornburgh-Cropper	
-9George P. Simpson	
-9Miss Ethel J. Rosenberg	
-11Día’u’lláh Asgharzádih	
-24Lady Blomfield	
-30Rev. George Townshend	
-55Mrs. Isobel Slade	
-61Mrs. Louise Ginman	
-63Miss Florence Pinchon	
-72Mrs. Claudia Coles	
-88Sister Grace Challis	
-88David Hofman	
-108Mrs. Lilian Stevens	
-116Miss Evelyn Baxter	
-117Ḥasan M. Balyuzi	
-122Frank Hurst	
-126Mrs. Mary Basil-Hall	
-127Albert and Jeff Joseph	
-146Dr. R. St. Barbe Baker	
-163Miss Jessica Young	
-172Lady Kathleen Hornell	
-172Mrs. Ursula Samandarí	
-172Mrs. Marion Hofman	
-179Miss Una Townshend	
-181Joseph Lee	
-181Mrs. Dorothy Ferraby	
-184Philip Hainsworth	
-187Walter Wilkins	
-191Mrs. Alma C. Gregory	
-191Robert Cheek	
-191Mrs. Joan Giddings	
-194Hugh and Violet McKinley	
-194Dr. Lutfulláh Hakím	
-195Fred Stahler	
-202Mrs. Prudence George	
-202John L. Marshall	
-210Mrs. M. Olga K. Mills	
-210Alfred and Lucy Sugar	
-210Charles N. Dunning	
-211Miss Claire Gung	
-211Mrs. Lizzie F. Hainsworth	
-211Miss Margaret Sullivan	
-211Cyril and Margaret Jenkerson	
-217Richard H. Backwell	
-218Miss Ada Williams	
-222Mrs. Constance Langdon-Davies	
-224George K. Marshall	
-228Mrs. Marguerite Preston	
-231Bernard Leach, CH, OBE	
-239Samuel Scott	
-240John Ferraby	
-250Mrs. Florence “Mother” George	
-256Músá Banání	
-257‘Alí Nakhjavání	
-257Ḥassan and Isobel Sabrí	
-266Arthur Norton	
-267Eric Manton	
-273Dr. Abbás and Shomais Afnán	
-278Edmund Cardell	
-281Dr. John G. Mitchell	
-307Miss Irene Bennett	
-321Miss Dorothy Wigington	
-362Ernest W. Gregory	
-381Dr. Ernest S. Miller	
-395Ian Semple	
-411Miss Jean Campbell	
-414John Craven	
+Page	NAME
+9	Dr. John E. Esslemont	
+9	Edward T. Hall	
+9	Mrs. Thornburgh-Cropper	
+9	George P. Simpson	
+9	Miss Ethel J. Rosenberg	
+11	Día’u’lláh Asgharzádih	
+24	Lady Blomfield	
+30	Rev. George Townshend	
+55	Mrs. Isobel Slade	
+61	Mrs. Louise Ginman	
+63	Miss Florence Pinchon	
+72	Mrs. Claudia Coles	
+88	Sister Grace Challis	
+88	David Hofman	
+108	Mrs. Lilian Stevens	
+116	Miss Evelyn Baxter	
+117	Ḥasan M. Balyuzi	
+122	Frank Hurst	
+126	Mrs. Mary Basil-Hall	
+127	Albert and Jeff Joseph	
+146	Dr. R. St. Barbe Baker	
+163	Miss Jessica Young	
+172	Lady Kathleen Hornell	
+172	Mrs. Ursula Samandarí	
+172	Mrs. Marion Hofman	
+179	Miss Una Townshend	
+181	Joseph Lee	
+181	Mrs. Dorothy Ferraby	
+184	Philip Hainsworth	
+187	Walter Wilkins	
+191	Mrs. Alma C. Gregory	
+191	Robert Cheek	
+191	Mrs. Joan Giddings	
+194	Hugh and Violet McKinley	
+194	Dr. Lutfulláh Hakím	
+195	Fred Stahler	
+202	Mrs. Prudence George	
+202	John L. Marshall	
+210	Mrs. M. Olga K. Mills	
+210	Alfred and Lucy Sugar	
+210	Charles N. Dunning	
+211	Miss Claire Gung	
+211	Mrs. Lizzie F. Hainsworth	
+211	Miss Margaret Sullivan	
+211	Cyril and Margaret Jenkerson	
+217	Richard H. Backwell	
+218	Miss Ada Williams	
+222	Mrs. Constance Langdon-Davies	
+224	George K. Marshall	
+228	Mrs. Marguerite Preston	
+231	Bernard Leach, CH, OBE	
+239	Samuel Scott	
+240	John Ferraby	
+250	Mrs. Florence “Mother” George	
+256	Músá Banání	
+257	‘Alí Nakhjavání	
+257	Ḥassan and Isobel Sabrí	
+266	Arthur Norton	
+267	Eric Manton	
+273	Dr. Abbás and Shomais Afnán	
+278	Edmund Cardell	
+281	Dr. John G. Mitchell	
+307	Miss Irene Bennett	
+321	Miss Dorothy Wigington	
+362	Ernest W. Gregory	
+381	Dr. Ernest S. Miller	
+395	Ian Semple	
+411	Miss Jean Campbell	
+414	John Craven	
 
 /*sub-chapter*/DR. JOHN E. ESSLEMONT, Hand of the Cause of God
 Born in 1874 and accepted the Faith in early 1915, Dr. Esslemont was elevated to the rank of Hand of the Cause of God after his passing on 22 November 1925 and linked by the Guardian with George Townshend and Thomas Breakwell, on the passing of George Townshend, as “One of three luminaries shedding brilliant lustre annals Irish, English, Scottish Bahá’í communities”. He was “Vice-President” of the first National Assembly from October 1923 until November 1924. For fuller details of his life and works read “Dr. J. E. Esslemont” by Dr. Moojan Momen. (Bahá’í Publishing Trust, 1975-B130.) 
