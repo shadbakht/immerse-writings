@@ -1,5 +1,7 @@
 ﻿/*title*/The Kitáb-i-Aqdas
 /*author*/Bahá’u’lláh
+/*faith*/Bahá’í
+
 The Most Holy Book
 
 
@@ -13,7 +15,7 @@ The notes, which are placed following the Synopsis and Codification, are numbere
 The index provides a guide to subjects in all sections of the volume.
 The significance and character of the Kitáb-i-Aqdas and the range of subjects it contains have been graphically depicted by Shoghi Effendi in his history of the first Bahá’í century entitled God Passes By. As an assistance to the reader, these passages are provided in the section that immediately follows the introduction. The Synopsis and Codification, which is republished in this volume, serves as another aid for obtaining an overview of the Book. 
 
-•    •    •
+
 /*chapter*/Introduction
 
 This year, the 149th of the Bahá’í era, marks the Centenary of the Ascension of Bahá’u’lláh, Bearer of the universal Revelation of God destined to lead humanity to its collective coming of age. That this occasion should be observed by a community of believers representing a cross-section of the entire human race and established, in the course of a century and a half, in the most remote corners of the globe, is a token of the forces of unity released by Bahá’u’lláh’s advent. A further testimony to the operation of these same forces can be seen in the extent to which Bahá’u’lláh’s vision has prefigured contemporary human experience in so many of its aspects. It is a propitious moment for the publication of this first authorized translation into English of the Mother Book of His Revelation, His “Most Holy Book,” the Book in which He sets forth the Laws of God for a Dispensation destined to endure for no less than a thousand years.
@@ -58,7 +60,7 @@ Our world has entered the dark heart of an age of fundamental change beyond anyt
 
 The Universal House of Justice
 
-•    •    •
+
 /*chapter*/A Description of the Kitáb-i-Aqdas by Shoghi Effendi
 
 Taken from God Passes By, 
@@ -72,7 +74,6 @@ Apart from these provisions Bahá’u’lláh exhorts His followers to consort, 
 The significant summons issued to the Presidents of the Republics of the American continent to seize their opportunity in the Day of God and to champion the cause of justice; the injunction to the members of parliaments throughout the world, urging the adoption of a universal script and language; His warnings to William I, the conqueror of Napoleon III; the reproof He administers to Francis Joseph, the Emperor of Austria; His reference to “the lamentations of Berlin” in His apostrophe to “the banks of the Rhine”; His condemnation of “the throne of tyranny” established in Constantinople, and His prediction of the extinction of its “outward splendor” and of the tribulations destined to overtake its inhabitants; the words of cheer and comfort He addresses to His native city, assuring her that God had chosen her to be “the source of the joy of all mankind”; His prophecy that “the voice of the heroes of Khurásán” will be raised in glorification of their Lord; His assertion that men “endued with mighty valor” will be raised up in Kirmán who will make mention of Him; and finally, His magnanimous assurance to a perfidious brother who had afflicted Him with such anguish, that an “ever-forgiving, all-bounteous” God would forgive him his iniquities were he only to repent—all these further enrich the contents of a Book designated by its Author as “the source of true felicity,” as the “Unerring Balance,” as the “Straight Path,” and as the “quickener of mankind.”
 The laws and ordinances that constitute the major theme of this Book, Bahá’u’lláh, moreover, has specifically characterized as “the breath of life unto all created things,” as “the mightiest stronghold,” as the “fruits” of His “Tree,” as “the highest means for the maintenance of order in the world and the security of its peoples,” as “the lamps of His wisdom and loving-providence,” as “the sweet-smelling savor of His garment,” and the “keys” of His “mercy” to His creatures. “This Book,” He Himself testifies, “is a heaven which We have adorned with the stars of Our commandments and prohibitions.” “Blessed the man,” He, moreover, has stated, “who will read it, and ponder the verses sent down in it by God, the Lord of Power, the Almighty. Say, O men! Take hold of it with the hand of resignation … By My life! It hath been sent down in a manner that amazeth the minds of men. Verily, it is My weightiest testimony unto all people, and the proof of the All-Merciful unto all who are in heaven and all who are on earth.” And again: “Blessed the palate that savoreth its sweetness, and the perceiving eye that recognizeth that which is treasured therein, and the understanding heart that comprehendeth its allusions and mysteries. By God! Such is the majesty of what hath been revealed therein, and so tremendous the revelation of its veiled allusions that the loins of utterance shake when attempting their description.” And finally: “In such a manner hath the Kitáb-i-Aqdas been revealed that it attracteth and embraceth all the divinely appointed Dispensations. Blessed those who peruse it! Blessed those who apprehend it! Blessed those who meditate upon it! Blessed those who ponder its meaning! So vast is its range that it hath encompassed all men ere their recognition of it. Erelong will its sovereign power, its pervasive influence and the greatness of its might be manifested on earth.”
 
-•    •    •
 
 /*chapter*/The Kitáb-i-Aqdas
 
@@ -459,14 +460,12 @@ O members of parliaments throughout the world! Select ye a single language for t
 190.
 It hath been forbidden you to smoke opium. We, truly, have prohibited this practice through a most binding interdiction in the Book. Should anyone partake thereof, assuredly he is not of Me. Fear God, O ye endued with understanding! 
 
-•    •    •
+
 /*chapter*/Some Texts Revealed by Bahá’u’lláh Supplementary to the Kitáb-i-Aqdas
 
-*
 
 A number of Tablets revealed by Bahá’u’lláh after the Kitáb-i-Aqdas contain passages supplementary to the provisions of the Most Holy Book. The most noteworthy of these have been published in Tablets of Bahá’u’lláh revealed after the Kitáb-i-Aqdas. Included in this section is an extract from the Tablet of Ishráqát. The text of the three Obligatory Prayers referred to in Questions and Answers and the Prayer for the Dead mentioned in the Text are, likewise, reprinted here.
 
-*
 
 /*sub-chapter*/The Tablet of Ishráqát
 The Eighth Ishráq
@@ -606,7 +605,7 @@ Deal with him, O Thou Who forgivest the sins of men and concealest their faults,
 
  (Prayers and Meditations by Bahá’u’lláh, CLXVII)
 
-•    •    •
+
 /*chapter*/Questions and Answers
 
 
@@ -1034,7 +1033,7 @@ He is God, exalted be He, the Lord of majesty and power! The Prophets and Chosen
 107. 
 In one of the Tablets He, exalted be His words, hath revealed: And in the matter of Zakát, We have likewise decreed that you should follow what hath been revealed in the Qur’án.
 
-•    •    •
+
 /*chapter*/Synopsis and Codification
 of the Laws and Ordinances of the Kitáb-i-Aqdas
 
@@ -1349,7 +1348,7 @@ IV. Laws, Ordinances and Exhortations
 		32. Allusion to Siyyid Muḥammad-i-Iṣfahání
 		33. Assurance of aid to all those who arise to serve the Faith
 
-•    •    •
+
 /*chapter*/Notes
 
 
@@ -2182,7 +2181,6 @@ One of the signs of the maturity of the world is that no one will accept to bear
 The coming of age of the human race has been associated by Shoghi Effendi with the unification of the whole of mankind, the establishment of a world commonwealth, and an unprecedented stimulus to “the intellectual, the moral and spiritual life of the entire human race.” 
 
 
-•    •    •
 /*chapter*/Key to Passages Translated by Shoghi Effendi
 
 /*sub-chapter*/Abbreviations of Sources:
@@ -2288,7 +2286,6 @@ Paragraph:
 181–83	“The world’s equilibrium … the Mighty, the Loving.” (GWB LXX)
 
 
-•    •    •
 /*chapter*/Footnotes
 
 The Kitáb-i-Aqdas

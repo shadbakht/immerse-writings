@@ -1,5 +1,7 @@
 ﻿/*title*/Gems of Divine Mysteries
 /*author*/Bahá’u’lláh
+/*faith*/Bahá’í
+
 Javáhiru’l-Asrár
 
 
@@ -132,6 +134,7 @@ From this station the wayfarer ascendeth unto a City that hath no name or descri
 Know, moreover, that when We undertook to reveal these words and committed some of them to writing, it was Our intention to elucidate for thine eminence, in the sweet accents of the blessed and the well-favoured of God, all that We had previously mentioned of the words of the Prophets and the sayings of the Messengers. Time, however, was lacking, and the traveller who came from thy presence was in great haste and eager to return. Thus have We cut short Our discourse and contented Ourself with this much, without completing the description of these stages in a seemly and befitting manner. Indeed, We have omitted the description of major cities and mighty journeys. Such was the haste of the courier that We even forsook the mention of the two exalted journeys of Resignation and Contentment.
 Yet, should thine eminence reflect upon these brief statements, thou wouldst assuredly acquire every knowledge, attain unto the Object of all learning, and exclaim: “Sufficient are these words unto all creation both visible and invisible!”
 Even so, should the fire of love burn within thy soul, thou wouldst ask: “Is there yet any more?”[67] And We say: “Praise be to God, the Lord of the worlds!”
+
 
 /*chapter*/Notes
 [1] Shoghi Effendi, God Passes By, Chapter VII, paragraph beginning “In that city, described in Islamic traditions…”.

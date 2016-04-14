@@ -1,7 +1,8 @@
 ﻿/*title*/The Summons of the Lord of Hosts
 /*author*/Bahá’u’lláh
+/*faith*/Bahá’í
+
 Tablets of Bahá’u’lláh
-•    •    •
 
 /*chapter*/Introduction
 
@@ -32,7 +33,7 @@ It seems especially appropriate, as Bahá’u’lláh’s influence penetrates e
 
 The Universal House of Justice
 
-•    •    •
+
 /*chapter*/Súriy-i-Haykal
 
 
@@ -336,7 +337,7 @@ And finally We beseech God, exalted be His glory, to enable thee to aid His Fait
 *
 Thus have We built the Temple with the hands of power and might, could ye but know it. This is the Temple promised unto you in the Book. Draw ye nigh unto it. This is that which profiteth you, could ye but comprehend it. Be fair, O peoples of the earth! Which is preferable, this, or a temple which is built of clay? Set your faces towards it. Thus have ye been commanded by God, the Help in Peril, the Self-Subsisting. Follow ye His bidding, and praise ye God, your Lord, for that which He hath bestowed upon you. He, verily, is the Truth. No God is there but He. He revealeth what He pleaseth, through His words “Be and it is”.
 
-•    •    •
+
 /*chapter*/Súriy-i-Ra’ís
 
 
@@ -384,7 +385,7 @@ Say: Magnified art Thou, O Lord my God! I entreat Thee by the tears Thy lovers h
 We have forsaken our homes, O Lord, in our eagerness to meet Thee and in our longing to be united with Thee. We have traversed land and sea to attain the court of Thy presence and to give ear to Thy verses. When we arrived at the shores of the sea, however, we were held back from Thee, as the ungodly intervened between us and the light of Thy countenance.
 O Lord! Dire thirst hath seized us, and with Thee are the soft-flowing waters of eternal life. Potent art Thou to do what pleaseth Thee. Deny us not the object of our quest. Write down then for us the recompense decreed for such of Thy servants as enjoy near access to Thee and are wholly devoted to Thy will. Make us so steadfast in Thy love that naught shall keep us back from Thee or deter us from Thine adoration. Powerful art Thou to do Thy pleasure. Thou, verily, art the Almighty, the Most Generous. 
 
-•    •    •
+
 /*chapter*/Lawḥ-i-Ra’ís
 
 
@@ -420,7 +421,7 @@ Most of Our companions now lie sick in this prison, and none knoweth what befell
 The pen is powerless to depict and the tongue faileth to describe the trials which We have suffered. Yet sweeter than honey to Me is the bitterness of such tribulations. Would that at every instant all the afflictions of the world could, in the path of God and for the sake of His love, be visited upon this evanescent Soul Who is immersed in the ocean of divine knowledge! 
 We implore God for patience and forbearance, inasmuch as thou art but a feeble creature and bereft of comprehension. Wert thou to awaken and inhale the fragrance of the breezes that waft from the retreats of eternity, thou wouldst readily abandon all that thou dost possess and in which thou dost rejoice, and choose to abide in one of the dilapidated rooms of this Most Great Prison. Beseech God to grant thee such mature understanding as to enable thee to distinguish praiseworthy actions from those which merit blame. Peace be upon him who followeth the way of guidance! 
 
-•    •    •
+
 /*chapter*/Lawḥ-i-Fu’ád
 
 
@@ -448,7 +449,7 @@ Thereupon he cried out in such distress as to cause the people of the graves to 
 Thus did We lay hold on him as We laid hold on those who preceded him. Behold their houses which We have left to the spiders, and take heed, O ye who are endued with understanding! He it is who opposed God, and for whom the verses of wrath were revealed in the Book. Blessed is he who readeth it and pondereth its contents, for a goodly end doth in truth await him.
 Thus have We recounted unto thee the tale of the evil-doers, that thine eyes may be solaced. As for thee, there lieth in store naught but a blissful end.
 
-•    •    •
+
 /*chapter*/Súriy-i-Mulúk
 
 
@@ -573,7 +574,7 @@ I counsel you, in the end, not to overstep the bounds of God, nor to heed the wa
 I close with these words uttered by God, exalted be His glory: “Say not to everyone who meeteth you with a greeting, ‘Thou art not a believer’.”[120]
 Peace be upon you, O concourse of the faithful, and praise be to God, the Lord of the worlds. 
 
-•    •    •
+
 Notes and References in this Publication
 
 /*chapter*/Notes

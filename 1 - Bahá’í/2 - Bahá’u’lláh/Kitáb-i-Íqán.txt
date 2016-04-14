@@ -1,18 +1,19 @@
 ﻿/*title*/The Kitáb-i-Íqán
 /*author*/Bahá’u’lláh
-The Book of Certitude
+/*faith*/Bahá’í
 
+The Book of Certitude
 Translated by Shoghi Effendi
 
-*
+
 This is the Day in which the testimony of the Lord hath been fulfilled, the Day in which the Word of God hath been made manifest, and His evidence firmly established. His voice is calling you unto that which shall profit you, and enjoineth you to observe that which shall draw you nigh unto God, the Lord of Revelation.
 —Bahá’u’lláh
-*
+
 
 Foreword
 This is one more attempt to introduce to the West, in language however inadequate, this book of unsurpassed preeminence among the writings of the Author of the Bahá’í Revelation. The hope is that it may assist others in their efforts to approach what must always be regarded as the unattainable goal—a befitting rendering of Bahá’u’lláh’s matchless utterance.
 —Shoghi
-*
+
 
 /*chapter*/Part One
 
@@ -122,8 +123,6 @@ O affectionate seeker! Shouldst thou soar in the holy realm of the spirit, thou 
 And now, We beseech the people of the Bayán, all the learned, the sages, the divines, and witnesses amongst them, not to forget the wishes and admonitions revealed in their Book. Let them, at all times, fix their gaze upon the essentials of His Cause, lest when He, Who is the Quintessence of truth, the inmost Reality of all things, the Source of all light, is made manifest, they cling unto certain passages of the Book, and inflict upon Him that which was inflicted in the Dispensation of the Qur’án. For, verily, powerful is He, the King of divine might, to extinguish with one letter of His wondrous words, the breath of life in the whole of the Bayán and the people thereof, and with one letter bestow upon them a new and everlasting life, and cause them to arise and speed out of the sepulchers of their vain and selfish desires. Take heed, and be watchful; and remember that all things have their consummation in belief in Him, in attainment unto His day, and in the realization of His divine presence. “There is no piety in turning your faces toward the east or toward the west, but he is pious who believeth in God and the Last Day.”[70] Give ear, O people of the Bayán, unto the truth whereunto We have admonished you, that haply ye may seek the shelter of the shadow extended, in the Day of God, upon all mankind.
 
 END OF PART ONE
-
-•    •    •
 
 
 /*chapter*/Part Two
@@ -335,7 +334,6 @@ Glorified be our Lord, the Most High!
 
 END
 
-•    •    •
 
 Notes and References in this Publication
 
