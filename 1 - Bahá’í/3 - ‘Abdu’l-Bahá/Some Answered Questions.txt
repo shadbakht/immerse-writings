@@ -1,6 +1,5 @@
 ﻿/*title*/Some Answered Questions
 /*author*/‘Abdu’l-Bahá
-/*faith*/Bahá’í
 
 Collected and translated from the Persian by Laura Clifford Barney
 Newly Revised by a Committee at the Bahá’í World Centre
@@ -19,6 +18,7 @@ Over the years since the original publication of Some Answered Questions, it has
 The centenary of ‘Abdu’l-Bahá’s journeys to the West, then, presents a fitting occasion both to honour Laura Clifford Barney’s imperishable contribution as the primary catalyst and first translator of this volume, and to present an improved translation of these “priceless explanations”.[166] The main objective of this retranslation has been to better represent the substance and the style of the original, in particular by capturing more clearly the subtleties of ‘Abdu’l-Bahá’s explanations, approximating more closely a style that is at once conversational and elevated, and by rendering more consistently the philosophical terms used throughout the text. While not bound by the original translation, this version nevertheless strives to retain many of its elegant expressions and felicitous turns of phrase.
 Since its release, Some Answered Questions has been an authoritative repository of ‘Abdu’l-Bahá’s profound insight and an indispensable component of every Bahá’í library. Shoghi Effendi observed that the book expounds the basic beliefs of the Cause in a simple and clear language and regarded its content as essential for grasping the significance and implications of the Bahá’í Revelation. In Some Answered Questions, he wrote, one “will find the clue to all the perplexing questions that agitate the mind of man in his search after true knowledge. The more this Book is read with care and patience, the greater are its revelations, and the more complete the understanding of its inner truth and significance.”[167] It is hoped that the new translation will assist future generations to access this inexhaustible mine “of knowledge regarding basic spiritual, ethical, and social problems”.[168]
 
+•    •    •
 
 /*sub-chapter*/Author’s Preface to the First Edition
 
@@ -28,6 +28,9 @@ This book presents only certain aspects of the Bahá’í Faith, which is univer
 In my case the teachings were made simple, to correspond to my rudimentary knowledge, and are therefore in no way complete and exhaustive, as the Table of Contents may suggest—the Table of Contents having been added merely to indicate the subjects treated of. But I believe that what has been so valuable to me may be of use to others, since all men, notwithstanding their differences, are united in their search for reality; and I have therefore asked ‘Abdu’l-Bahá’s permission to publish these talks.
 Originally they were not given in any special order, but have now been roughly classified for the convenience of the reader. The Persian text has been closely followed, at times even to the detriment of the English, a few alterations being made in the translation merely where the literal rendering seemed too involved and obscure; and the interpolated words, required to make the meaning clearer, have not been indicated in any way in order to avoid the too frequent interruption of the thought by technical or explanatory signs. Also many of the Persian and Arabic names have been written in their simplest form without strictly adhering to a scientific system which would be confusing to the average reader.
 Laura Clifford Barney
+
+
+•    •    •
 
 
 //*chapter*//Part 1
@@ -524,6 +527,8 @@ These gifts, however, do not manifest themselves in the reality of man save thro
 9.
 As the compassionate Lord has crowned the head of man with such a refulgent diadem, we must strive that its luminous gems may cast their light upon the whole world.
 
+•    •    •
+
 
 //*chapter*//Part 2
 Some Christian Subjects
@@ -961,6 +966,9 @@ In the same way, the record and mention of a thing in the Scriptures is not the 
 Through astronomical calculations, the mathematicians determine that at a certain time a solar or lunar eclipse will occur. Surely this prediction is not the cause of the eclipse. This of course is merely an analogy and not an exact image.
 
 
+•    •    •
+
+
 //*chapter*//Part 3
 On the Powers and Conditions of the Manifestations of God
 
@@ -1199,6 +1207,9 @@ Likewise, a general who is unrivalled in the art of war “doeth whatsoever he w
 In sum, the meaning of “He doeth whatsoever He willeth” is that if the Manifestation of God issues a command, enforces a law, or performs an action whose wisdom His followers cannot grasp, they should not think for a moment of questioning His words or actions. All souls are under the shadow of the universal Manifestation, must submit to the authority of the religion of God, and are not to deviate so much as a hairsbreadth. Rather, they must conform their every act and deed to the religion of God, and should they deviate from it they will be reproved and held accountable before God. It is certain that they have no share of the station “He doeth whatsoever He willeth”, for it is confined to the universal Manifestation of God.
 10.
 Thus Christ—may my soul be a sacrifice for His sake!—was the embodiment of the words “He doeth whatsoever He willeth”, but His disciples had no share of this station, for they abided under His shadow and were not granted leave to deviate from His will and command.
+
+
+•    •    •
 
 
 //*chapter*//Part 4
@@ -1757,6 +1768,8 @@ It is therefore evident that it is possible to cure illnesses by means of fruits
 This is only a brief explanation. God willing, and the occasion permitting, we will provide a more detailed explanation another time.
 
 
+•    •    •
+
 //*chapter*//Part 5
 Miscellaneous Subjects
 
@@ -2032,8 +2045,11 @@ Praise be to God, you have visited Persia and have witnessed the loving-kindness
 In this day, thanks to the love of God, this has been achieved with the greatest ease. Take heed, then, O ye of understanding heart!
 
 
+•    •    •
+
 
 /*sub-chapter*/Notes
+
 
 Foreword
 [164] See, for example, Selections from the Writings of ‘Abdu’l-Bahá, 30.2; The Promulgation of Universal Peace: Talks Delivered by ‘Abdu’l-Bahá during His Visit to the United States and Canada in 1912, trans. Howard MacNutt (Wilmette, IL: Bahá’í Publishing Trust, 2012), p. 427; Paris Talks: Addresses Given by ‘Abdu’l-Bahá in 1911, 2.1 and 28.6.
@@ -2041,6 +2057,8 @@ Foreword
 [166] Shoghi Effendi, God Passes By (Wilmette, IL: Bahá’í Publishing Trust, 1974, 2012 printing), p. 410.
 [167] From a letter dated 13 March 1923 written by Shoghi Effendi to the Bahá’ís of Australasia.
 [168] From a letter dated 14 November 1940 written on behalf of Shoghi Effendi to an individual believer.
+
+
 
 [1] Gen. 1:26.
 [2] Cf. John 6:42.

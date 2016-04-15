@@ -1,6 +1,5 @@
 ﻿/*title*/Will and Testament of ‘Abdu’l-Bahá
 /*author*/‘Abdu’l-Bahá
-/*faith*/Bahá’í
 
 /*chapter*/Part One
 

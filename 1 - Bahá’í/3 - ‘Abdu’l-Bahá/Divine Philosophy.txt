@@ -1,9 +1,7 @@
 ﻿/*title*/Divine Philosophy
 /*author*/‘Abdu’l-Bahá
-/*faith*/Bahá’í
 
-
-Compiled by Elizabeth Fraser Chamberlain.
+compiled by Elizabeth Fraser Chamberlain.
 Boston, MA: Tudor Press, 1918
 
 [William Collins, in Bibliography of English-Language Works on the Babi and Bahá'í Faiths, writes "[this is] a collection of wisdom attributed to 'Abdu'l-Bahá. Sources are not indicated for most of the items and some of the quotations are questionable, thus lessening the value of this compilation. It does, nevertheless, give a sense of how early Western Bahá'ís were introduced to the teachings of their faith". The book was "authorized", as indicated by the editor's note on the title page: "At the suggestion of Abdul Bahá these notes on Divine Philosophy, together with a short introductory history, have been compiled and published by Isabel Fraser Chamberlain."]
@@ -155,14 +153,23 @@ The sun of reality has risen from the eastern horizon. Its light and heat are be
 Just as the rays of the phenomenal sun are infinite, likewise the rays of the sun of reality are infinite. The following summary contains but a few of the rays which may be likened unto great principles shining into the consciousness of man.
 
 1. The first is the independent investigation of reality.
+
 2. The second is the banishment of all prejudice.
+
 3. The third is the oneness of the world of humanity.
+
 4. The fourth is the oneness of the foundation of all religions.
+
 5. The fifth is the unity of science and religion.
+
 6. The sixth is the universal auxiliary language.
+
 7. The seventh is universal education.
+
 8. The eighth is the equality of the sexes.
+
 9. The ninth is the parliament of man.
+
 10. The tenth is universal peace.
 
 1. INDEPENDENT INVESTIGATION OF REALITY
@@ -175,7 +182,9 @@ O people, make firm the girdle of endeavor, that perchance religious prejudice m
 Beware of prejudice; light is good in whatsoever lamp it is burning. A rose is beautiful in whatever garden it may bloom. A star has the same radiance if it shines from the east or the west.
 
 All the prophets of God have come to unite the children of men and not to disperse them; to put in action the law of love and not enmity.
+
 We must banish prejudice. Religious, patriotic, racial prejudices must disappear, for they are the destroyers of human society.
+
 We must become the cause of the unity of the human race.
 
 3. THE ONENESS OF THE WORLD OF HUMANITY
@@ -743,6 +752,7 @@ When certain links become rusty, they are broken by unseen forces, to be replace
 However, those souls who have lived many years and have acquired much experience and have weathered many severe winters realize that in order to enjoy the coming spring they must pass through the cold of winter.
 
 
+
 /*chapter*/Chapter 3
 
 Dost thou think thy body a small thing, while in thee is enfolded the universe? — (BAHA'O'LLAH IN SEVEN VALLEYS)
@@ -858,6 +868,7 @@ Is the materialistic philosophy of this Europe, so much praised by contemporary 
 Strive so that these people may be released from their nature worship and become like sons of wisdom from the city of light.
 
 
+
 /*chapter*/Chapter 4
 
 We speak one word and by it we intend one and seventy meanings. — (BAHA'O'LLAH IN THE IGHAN)
@@ -894,6 +905,7 @@ Please send some teachers to Persia so that they may teach Esperanto to the youn
 May it be promulgated rapidly; then the world of humanity will find eternal peace; all the nations will associate with one another like mothers and sisters, fathers and brothers, and each individual member of the community will be fully informed of the thoughts of all.
 
 I am extremely grateful to you and thank you for these lofty efforts, for you have gathered at this banquet in a selfless endeavor to further this great end. Your hope is to render a mighty service to the world of humanity and for this exalted aim I congratulate you from the depths of my heart.
+
 
 
 /*chapter*/Chapter 5
@@ -991,6 +1003,7 @@ PROFESSOR: The invitation of the congress will be sent to you and we hope you wi
 ABDUL BAHA: God willing.
 
 
+
 /*chapter*/Chapter 6
 
 Blessed is he who is free from the sea of names. 
@@ -1023,6 +1036,7 @@ If the members of this honorable congress engage their deliberations upon the el
 This is the hope of this exiled one! From the throne of the Almighty I beg for you assistance and confirmation, so that you may become strengthened to accomplish such a work, the feasibility of which has been considered impossible and utopian since the dawn of creation. May this work be accomplished through you, in this radiant century, with the utmost brilliancy and grandeur.
 Upon ye be greeting and praise!
 ABDUL BAHA ABBAS.
+
 
 
 /*chapter*/Chapter 7
@@ -1083,6 +1097,7 @@ O GOD, O MY LORD, I SUPPLICATE TO THEE AND IMPLORE IN THY PRESENCE AND INVOKE TH
 VERILY THOU ART THE CLEMENT, THE BOUNTEOUS AND VERILY THOU ART THE MOST MERCIFUL OF THE MERCIFUL!
 
 
+
 /*chapter*/Chapter 8
 
 This world is non-existent, adorned in the form of existence. 
@@ -1139,6 +1154,7 @@ The world of existence is like unto an orchard and humanity is like unto the tre
 
 If this warfare and conflict are not entirely effaced, if the whole world of humanity is not united and in accord, if the various races refuse to associate with one another, how can we ever aspire to the realization of that dream of the millennium of which it is said, "The earth will be transformed into a delectable paradise and all the children of men will live in the utmost happiness"? If the members of a family are perfectly united it will add to their comfort and joy. If the people of a city are inspired with civic unity the whole community will advance. If the inhabitants of a great continent become one spirit in different bodies marvelous progress will be made and if the people of the entire globe are welded into one great commonwealth the prayer, "Thy kingdom come, Thy will be done on earth as in heaven," will be a reality for each will have the kingdom within himself.
 What sublime happiness! What God-inspired progress! What a heavenly ideal! What a divine disposal! I request that each one of you work for this great end and hold fast to every means of harmony, that this blood-thirstiness may be forever quenched; that thehorizons of the world may become illumined by the rays of a divine humanity and the east and the west become radiant with the light of its Lord.
+
 
 
 /*chapter*/Chapter 9
