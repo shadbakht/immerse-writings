@@ -1,5 +1,7 @@
 ﻿/*title*/Bahá’í World Faith—Selected Writings of Bahá’u’lláh and ‘Abdu’l-Bahá (‘Abdu’l-Bahá’s Section Only)
 /*author*/‘Abdu’l-Bahá
+/*faith*/Bahá’í
+
  
 /*chapter*/CHAPTER SIX: THE FAITH OF BAHÁ’U’LLÁH
 /*sub-chapter*/MANKIND IS IN DANGER

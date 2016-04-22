@@ -1,5 +1,6 @@
 ﻿/*title*/The Four Valleys
 /*author*/Bahá’u’lláh
+/*faith*/Bahá’í
 
 Translated by Marzieh Gail
 In consultation with Ali-Kuli Khan

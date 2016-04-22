@@ -1,5 +1,6 @@
 ﻿/*title*/Epistle to the Son of the Wolf
 /*author*/Bahá’u’lláh
+/*faith*/Bahá’í
 
 Translated by Shoghi Effendi
 

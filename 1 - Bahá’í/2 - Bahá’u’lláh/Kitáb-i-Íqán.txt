@@ -1,7 +1,8 @@
 ﻿/*title*/The Kitáb-i-Íqán
 /*author*/Bahá’u’lláh
-The Book of Certitude
+/*faith*/Bahá’í
 
+The Book of Certitude
 Translated by Shoghi Effendi
 
 *

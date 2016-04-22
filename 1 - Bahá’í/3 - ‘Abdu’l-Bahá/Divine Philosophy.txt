@@ -1,5 +1,6 @@
 ﻿/*title*/Divine Philosophy
 /*author*/‘Abdu’l-Bahá
+/*faith*/Bahá’í
 
 compiled by Elizabeth Fraser Chamberlain.
 Boston, MA: Tudor Press, 1918

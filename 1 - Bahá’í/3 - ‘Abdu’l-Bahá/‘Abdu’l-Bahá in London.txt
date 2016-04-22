@@ -1,5 +1,6 @@
 ﻿/*title*/‘Abdu’l-Bahá in London
 /*author*/‘Abdu’l-Bahá
+/*faith*/Bahá’í
 
 
 /*chapter*/The City Temple: Introduction
